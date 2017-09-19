@@ -1,0 +1,1 @@
+/Users/Peyman/.oh-my-zsh/themes/dracula.zsh-theme
