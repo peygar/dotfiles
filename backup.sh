@@ -8,6 +8,8 @@ cp ~/.oh-my-zsh/themes/dracula.zsh-theme $BACKUP_ROOT/zsh/
 cp -r ~/.oh-my-zsh/custom $BACKUP_ROOT/zsh/
 cp -r ~/.bin $BACKUP_ROOT/zsh/
 
+cp ~/.iterm2_shell_integration.zsh $BACKUP_ROOT/zsh/
+
 # iterm
 cp -r ~/Library/Application\ Support/iTerm2/Configuration $BACKUP_ROOT/iterm/
 

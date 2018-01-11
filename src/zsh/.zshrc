@@ -61,7 +61,7 @@ export MANPATH="/usr/local/man:/usr/local/share/man/man1:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
 source ~/.iterm2_shell_integration.`basename $SHELL`
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $ZSH_CUSTOM/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 eval "$(thefuck --alias)"
 
