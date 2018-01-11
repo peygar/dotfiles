@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "rulers": [64, 120],
+        "word_wrap": false,
+    },
+	"folders":
+	[
+		{
+			"path": "~/Documents/CS343"
+		}
+	]
+}

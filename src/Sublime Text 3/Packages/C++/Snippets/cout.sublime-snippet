@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cout << "${1:message}" << endl;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cout</tabTrigger>
+	<scope>source.c, source.c++, source.objc, source.objc++</scope>
+</snippet>

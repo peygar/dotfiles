@@ -1,0 +1,3503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"we",
+				"WeightedEdge"
+			],
+			[
+				"m",
+				"m_prime"
+			],
+			[
+				"sort",
+				"sort_weight"
+			],
+			[
+				"vector",
+				"vector"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"resu",
+				"resume"
+			],
+			[
+				"cor",
+				"correct\t(q3.testdoc)"
+			],
+			[
+				"string",
+				"stringliteral"
+			],
+			[
+				"handl",
+				"handleEncoding"
+			],
+			[
+				"ev",
+				"env2"
+			],
+			[
+				"lon",
+				"longjmp"
+			],
+			[
+				"long",
+				"longjmp\t(shit.cpp)"
+			],
+			[
+				"error",
+				"error_ptr"
+			],
+			[
+				"re",
+				"remote"
+			],
+			[
+				"rt",
+				"rtn2"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"retu",
+				"returnCode"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"valid",
+				"validate_customer"
+			],
+			[
+				"inval",
+				"invalid_fields"
+			],
+			[
+				"in",
+				"invalid_fields"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"isa",
+				"is_a?\tfunc"
+			],
+			[
+				"val",
+				"validations"
+			],
+			[
+				"validate",
+				"validate_field"
+			],
+			[
+				"invali",
+				"invalid_customers"
+			],
+			[
+				"cust",
+				"customer"
+			],
+			[
+				"tota",
+				"total_pages"
+			],
+			[
+				"total",
+				"total_pages"
+			],
+			[
+				"joi",
+				"joined_array"
+			],
+			[
+				"tot",
+				"total_orders_by_steve"
+			],
+			[
+				"totla",
+				"total_orders_by_steve"
+			],
+			[
+				"join",
+				"joined_array"
+			],
+			[
+				"each",
+				"each\tfunc"
+			],
+			[
+				"merge",
+				"merge_recursively"
+			],
+			[
+				"fore",
+				"foreign_key"
+			],
+			[
+				"for",
+				"foreign_json"
+			],
+			[
+				"prim",
+				"primary_hash"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"key",
+				"key?\tfunc"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"delete",
+				"delete!\tfunc"
+			],
+			[
+				"H",
+				"HELLO"
+			],
+			[
+				"ke",
+				"key2"
+			],
+			[
+				"is_",
+				"is_first_key_unique"
+			],
+			[
+				"json",
+				"json_array2"
+			],
+			[
+				"nil",
+				"nil?\tfunc"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"js",
+				"json_array1"
+			],
+			[
+				"has",
+				"hash_table1"
+			],
+			[
+				"delet",
+				"delete\tfunc"
+			],
+			[
+				"remove",
+				"remove\tfunc"
+			],
+			[
+				"def",
+				"default\t(q1a.cpp)"
+			],
+			[
+				"name",
+				"namespace\tnamespace std"
+			],
+			[
+				"id",
+				"ifnd\tifndef (…)"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"vbase",
+				"vbase1"
+			],
+			[
+				"allo",
+				"alloc_kpages"
+			],
+			[
+				"KV",
+				"PADDR_TO_KVADDR"
+			],
+			[
+				"VA",
+				"vaddr_t"
+			],
+			[
+				"num",
+				"num_pages"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"pad",
+				"paddr_t"
+			],
+			[
+				"i",
+				"ifnd\tifndef (…)"
+			],
+			[
+				"PAGE",
+				"PAGE_SIZE"
+			],
+			[
+				"padd",
+				"paddr_start"
+			],
+			[
+				"_W",
+				"_WVAL\t(wait.h)"
+			],
+			[
+				"free",
+				"freeArrayVals"
+			],
+			[
+				"prog",
+				"program"
+			],
+			[
+				"args",
+				"args_copy"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"first",
+				"first_letter"
+			],
+			[
+				"cop",
+				"copyin"
+			],
+			[
+				"exec",
+				"execv"
+			],
+			[
+				"arg_st",
+				"arg_str_ptr"
+			],
+			[
+				"copy",
+				"copyinstr"
+			],
+			[
+				"user",
+				"userptr_t"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"arra",
+				"array_len"
+			],
+			[
+				"0x",
+				"0x80000000"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"limi",
+				"limits.h\t(proc_syscalls.c)"
+			],
+			[
+				"userptr",
+				"userptr\t(copyinout.c)"
+			],
+			[
+				"stack",
+				"stackptr"
+			],
+			[
+				"userpt",
+				"userptr_t\t(proc_syscalls.c)"
+			],
+			[
+				"siz",
+				"size_t"
+			],
+			[
+				"lock",
+				"lock\t(proc.c)"
+			],
+			[
+				"cur",
+				"curproc"
+			],
+			[
+				"curp",
+				"curproc_getas"
+			],
+			[
+				"vfs",
+				"vfs.h\t(runprogram.c)"
+			],
+			[
+				"as_de",
+				"as_deactivate"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"pid",
+				"pidm"
+			],
+			[
+				"get",
+				"getpid\t(proc_syscalls.c)"
+			],
+			[
+				"wait",
+				"waitpid\t(proc_syscalls.c)"
+			],
+			[
+				"poss",
+				"possible_child"
+			],
+			[
+				"pos",
+				"possible_child"
+			],
+			[
+				"children_",
+				"children_array"
+			],
+			[
+				"spi",
+				"spinlock_release"
+			],
+			[
+				"pair",
+				"pid_exit_pair_array_num\t(proc_syscalls.c)"
+			],
+			[
+				"zomb",
+				"zombie_children_array\t(proc_syscalls.c)"
+			],
+			[
+				"exitc",
+				"exit_cv"
+			],
+			[
+				"zombi",
+				"zombie_children_array"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"parent",
+				"parent_proc"
+			],
+			[
+				"exi",
+				"exitcode"
+			],
+			[
+				"_MK",
+				"_MKWAIT_EXIT\t(wait.h)"
+			],
+			[
+				"zom",
+				"zombie"
+			],
+			[
+				"PID",
+				"PIDEXITARRAYINLINE\t(proc.h)"
+			],
+			[
+				"chi",
+				"children_array"
+			],
+			[
+				"cv_wa",
+				"cv_wait\t(synch.h)"
+			],
+			[
+				"exit",
+				"exitstatus"
+			],
+			[
+				"pidm",
+				"pidm_lock"
+			],
+			[
+				"sync",
+				"synch.h"
+			],
+			[
+				"spin",
+				"spinlock_release\t(proc.c)"
+			],
+			[
+				"spinlo",
+				"spinlock_acquire\t(proc.c)"
+			],
+			[
+				"op",
+				"opt-A2.h\t(pid_manager.h)"
+			],
+			[
+				"enter",
+				"enter_forked_process\t(syscall.h)"
+			],
+			[
+				"trap",
+				"trapframe"
+			],
+			[
+				"child_",
+				"children_array"
+			],
+			[
+				"desoy",
+				"proc_destroy"
+			],
+			[
+				"child_ar",
+				"children_array\t(proc.c)"
+			],
+			[
+				"ch",
+				"child_proc"
+			],
+			[
+				"new",
+				"new_proc"
+			],
+			[
+				"EM",
+				"ENOMEM\t(thread.c)"
+			],
+			[
+				"err",
+				"errno.h"
+			],
+			[
+				"create",
+				"create_pid_manager\t(pid_manager.h)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Peyman/Documents/CS341/A10.txt",
+			"settings":
+			{
+				"buffer_size": 10957,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Peyman/Documents/CS341/A10Q3.txt",
+			"settings":
+			{
+				"buffer_size": 2954,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Peyman/Documents/CS341/A10Q2.txt",
+			"settings":
+			{
+				"buffer_size": 4089,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Peyman/Documents/CS341/A10Q1.txt",
+			"settings":
+			{
+				"buffer_size": 3898,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CS341.sublime-project",
+			"settings":
+			{
+				"buffer_size": 157,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Sample Markdown Cheat Sheet\n=========================== \n\nThis is a sample markdown file to help you write Markdown quickly :)\n\nIf you use the fabulous [Sublime Text 2/3 editor][ST] along with the [Markdown Preview plugin][MarkdownPreview], open your ST2 Palette with `CMD+⇧+P` then choose `Markdown Preview in browser` to see the result in your browser.\n\n## Text basics\nthis is *italic* and this is **bold** .  another _italic_ and another __bold__\n\nthis is `important` text. and percentage signs : % and `%`\n\nThis is a paragraph with a footnote (builtin parser only). [^note-id]\n\nInsert `[ TOC ]` without spaces to generate a table of contents (builtin parsers only).\n\n## Indentation\n> Here is some indented text\n>> even more indented\n\n## Titles\n# Big title (h1)\n## Middle title (h2)\n### Smaller title (h3)\n#### and so on (hX)\n##### and so on (hX)\n###### and so on (hX)\n\n## Example lists (1)\n\n - bullets can be `-`, `+`, or `*`\n - bullet list 1\n - bullet list 2\n    - sub item 1\n    - sub item 2\n\n        with indented text inside\n\n - bullet list 3\n + bullet list 4\n * bullet list 5\n\n## Links\n\nThis is an [example inline link](http://lmgtfy.com/) and [another one with a title](http://lmgtfy.com/ \"Hello, world\").\n\nLinks can also be reference based : [reference 1][ref1] or [reference 2 with title][ref2].\n\nReferences are usually placed at the bottom of the document\n\n## Images\n\nA sample image :\n\n![revolunet logo](http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg \"revolunet logo\")\n\nAs links, images can also use references instead of inline links :\n\n![revolunet logo][revolunet-logo]\n\n\n## Code\n\nIt's quite easy to show code in markdown files.\n\nBackticks can be used to `highlight` some words.\n\nAlso, any indented block is considered a code block.  If `enable_highlight` is `true`, syntax highlighting will be included (for the builtin parser - the github parser does this automatically).\n\n    <script>\n        document.location = 'http://lmgtfy.com/?q=markdown+cheat+sheet';\n    </script>\n\n## Math\n\nWhen `enable_mathjax` is `true`, inline math can be included \\\\(\\frac{\\pi}{2}\\\\) $\\pi$\n\nAlternatively, math can be written on its own line:\n\n$$F(\\omega) = \\frac{1}{\\sqrt{2\\pi}} \\int_{-\\infty}^{\\infty} f(t) \\, e^{ - i \\omega t}dt$$\n\n\\\\[\\int_0^1 f(t) \\mathrm{d}t\\\\]\n\n\\\\[\\sum_j \\gamma_j^2/d_j\\\\]\n\n\n\n## GitHub Flavored Markdown\n\nIf you use the Github parser, you can use some of [Github Flavored Markdown][gfm] syntax :\n\n * User/Project@SHA: revolunet/sublimetext-markdown-preview@7da61badeda468b5019869d11000307e07e07401\n * User/Project#Issue: revolunet/sublimetext-markdown-preview#1\n * User : @revolunet\n\nSome Python code :\n\n```python\nimport random\n\nclass CardGame(object):\n    \"\"\" a sample python class \"\"\"\n    NB_CARDS = 32\n    def __init__(self, cards=5):\n        self.cards = random.sample(range(self.NB_CARDS), 5)\n        print 'ready to play'\n```\n\nSome Javascript code :\n\n```js\nvar config = {\n    duration: 5,\n    comment: 'WTF'\n}\n// callbacks beauty un action\nasync_call('/path/to/api', function(json) {\n    another_call(json, function(result2) {\n        another_another_call(result2, function(result3) {\n            another_another_another_call(result3, function(result4) {\n                alert('And if all went well, i got my result :)');\n            });\n        });\n    });\n})\n```\n\nThe Github Markdown also brings some [nice Emoji support][emoji] : :+1: :heart: :beer:\n\n[^note-id]: This is the text of the note. \n\n## Parsers and Extensions\n\nMarkdown Preview comes with **Python-Markdown** preloaded.\n\n### *Python-Markdown*\n\nThe [Python-Markdown Parser][] provides support for several extensions.\n\n[Python-Markdown Parser]: https://github.com/waylan/Python-Markdown\n\n#### Extra Extensions\n\n* `abbr` -- [Abbreviations][]\n* `attr_list` -- [Attribute Lists][]\n* `def_list` -- [Definition Lists][]\n* `fenced_code` -- [Fenced Code Blocks][]\n* `footnotes` -- [Footnotes][]\n* `tables` -- [Tables][]\n* `smart_strong` -- [Smart Strong][]\n\n[Abbreviations]: http://pythonhosted.org/Markdown/extensions/abbreviations.html\n[Attribute Lists]: http://pythonhosted.org/Markdown/extensions/attr_list.html\n[Definition Lists]: http://pythonhosted.org/Markdown/extensions/definition_lists.html\n[Fenced Code Blocks]: http://pythonhosted.org/Markdown/extensions/fenced_code_blocks.html\n[Footnotes]: http://pythonhosted.org/Markdown/extensions/footnotes.html\n[Tables]: http://pythonhosted.org/Markdown/extensions/tables.html\n[Smart Strong]: http://pythonhosted.org/Markdown/extensions/smart_strong.html\n\n\nYou can enable them all at once using the `extra` keyword.\n\n    extensions: [ 'extra' ]\n\nIf you want all the extras plus the `toc` extension,\nyour settings would look like this:\n\n    {\n        ...\n        parser: 'markdown',\n        extensions: ['extra', 'toc'],\n        ...\n    }\n\n\n#### Other Extensions\n\nThere are also some extensions that are not included in Markdown Extra\nbut come in the standard Python-Markdown library.\n\n* `code-hilite` -- [CodeHilite][]\n* `html-tidy` -- [HTML Tidy][]\n* `header-id` -- [HeaderId][]\n* `meta_data` -- [Meta-Data][]\n* `nl2br` -- [New Line to Break][]\n* `rss` -- [RSS][]\n* `sane_lists` -- [Sane Lists][]\n* `smarty` -- [Smarty][]\n* `toc` -- [Table of Contents][]\n* `wikilinks` -- [WikiLinks][]\n\n[CodeHilite]:  http://pythonhosted.org/Markdown/extensions/code_hilite.html\n[HTML Tidy]:  http://pythonhosted.org/Markdown/extensions/html_tidy.html\n[HeaderId]:  http://pythonhosted.org/Markdown/extensions/header_id.html\n[Meta-Data]:  http://pythonhosted.org/Markdown/extensions/meta_data.html\n[New Line to Break]:  http://pythonhosted.org/Markdown/extensions/nl2br.html\n[RSS]:  http://pythonhosted.org/Markdown/extensions/rss.html\n[Sane Lists]:  http://pythonhosted.org/Markdown/extensions/sane_lists.html\n[Table of Contents]:  http://pythonhosted.org/Markdown/extensions/toc.html\n[WikiLinks]:  http://pythonhosted.org/Markdown/extensions/wikilinks.html\n[Smarty]: https://pythonhosted.org/Markdown/extensions/smarty.html\n\n#### 3rd Party Extensions\n\n*Python-Markdown* is designed to be extended.\n\nSome included ones are:\n\n* `delete` -- github style delte support via `~~word~~`\n* `githubemoji` --  github emoji support\n* `tasklist` -- github style tasklists\n* `magiclink` -- github style auto link conversion of http|ftp links\n* `headeranchor` -- github style header anchor links\n* `github` -- Adds the above extensions in one shot\n* `b64` -- convert and embed local images to base64.  Setup by adding this `b64(base_path=${BASE_PATH})`\n\nThere are also a number of others available:\n\nJust fork this repo and add your extensions inside the `.../Packages/Markdown Preview/markdown/extensions/` folder.\n\nCheck out the list of [3rd Party extensions](\nhttps://github.com/waylan/Python-Markdown/wiki/Third-Party-Extensions).\n\n\n#### Default Extensions\n\nThe default extensions are:\n\n* `footnotes` -- [Footnotes]\n* `toc` -- [Table of Contents]\n* `fenced_code` -- [Fenced Code Blocks] \n* `tables` -- [Tables]\n\nUse the `default` keyword, to select them all.\nIf you want all the defaults plus the `definition_lists` extension,\nyour settings would look like this:\n\n    {\n        ...\n        parser: 'markdown',\n        extensions: ['default', 'definition_lists'],\n        ...\n    }\n\n## Examples\n\n### Tables\n\nThe `tables` extension of the *Python-Markdown* parser is activated by default,\nbut is currently **not** available in *Markdown2*.\n\nThe syntax was adopted from the [php markdown project](http://michelf.ca/projects/php-markdown/extra/#table),\nand is also used in github flavoured markdown.\n\n| Year | Temperature (low) | Temperature (high) |  \n| ---- | ----------------- | -------------------|  \n| 1900 |               -10 |                 25 |  \n| 1910 |               -15 |                 30 |  \n| 1920 |               -10 |                 32 |  \n\n\n### Wiki Tables\n\nIf you are using *Markdown2* with the `wiki-tables` extra activated you should see a table below:\n\n|| *Year* || *Temperature (low)* || *Temperature (high)* ||  \n||   1900 ||                 -10 ||                   25 ||  \n||   1910 ||                 -15 ||                   30 ||  \n||   1920 ||                 -10 ||                   32 ||  \n\n\n### Definition Lists\n\nThis example requires *Python Markdown*'s `def_list` extension.\n\nApple\n:   Pomaceous fruit of plants of the genus Malus in \n    the family Rosaceae.\n\nOrange\n:   The fruit of an evergreen tree of the genus Citrus.\n\n\n## About\n\nThis plugin and this sample file is proudly brought to you by the [revolunet team][revolunet]\n\n [ref1]: http://revolunet.com\n [ref2]: http://revolunet.com \"rich web apps\"\n [MarkdownREF]: http://daringfireball.net/projects/markdown/basics\n [MarkdownPreview]: https://github.com/revolunet/sublimetext-markdown-preview\n [ST]: http://sublimetext.com\n [revolunet]: http://revolunet.com\n [revolunet-logo]: http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg \"revolunet logo\"\n [gfm]: https://help.github.com/articles/github-flavored-markdown/\n [emoji]: http://www.emoji-cheat-sheet.com/\n\n",
+			"settings":
+			{
+				"buffer_size": 9004,
+				"line_ending": "Unix",
+				"name": "Markdown Cheatsheet",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 331.0,
+		"last_filter": "markd",
+		"selected_items":
+		[
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previewin",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prjectedi",
+				"Project: Edit"
+			],
+			[
+				"inser",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"preview",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"insert",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markprev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdownpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mp",
+				"Project Manager: Open Project"
+			],
+			[
+				"sidesele",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"markpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"marchea",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdownpreview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"charac",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"chara",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"openresou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sublimelintersetting",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sideb",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"sftpsetting",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sidekey",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"project edit",
+				"Project: Edit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"togglint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lintthisv",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"caharacter",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"lintthis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"shoall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"projecedi",
+				"Project: Edit"
+			],
+			[
+				"showal",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lintt",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"enabl",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"lintthi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"character",
+				"Character Table: Lookup Unicode Character"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"u++",
+				"Set Syntax: uC++"
+			],
+			[
+				"u",
+				"Set Syntax: uC++"
+			],
+			[
+				"edit proj",
+				"Project Manager: Edit Project"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sidebysett",
+				"Side-by-Side: Sublime Settings"
+			],
+			[
+				"tern",
+				"Terminal: Open in project folder"
+			],
+			[
+				"project manager",
+				"Preferences: Project Manager Key Bindings"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"projectm",
+				"Project Manager"
+			],
+			[
+				"ma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"syntaxmat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sidebi",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"uC++",
+				"Set Syntax: uC++"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"toggleli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"showall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"removap",
+				"Package Control: Remove Package"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linview",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"sideby",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"sidebysi",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"sidebu",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"b",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"pacalist",
+				"Package Control: List Packages"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"index",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"sidebs",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"whocal",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"whoc",
+				"WhoCalled: Add/remove project folders"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"openn",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"openfiles",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"c",
+				"Set Syntax: CSS"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybinuser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"side",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"depend",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"file ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"filesea",
+				"File: Search Files"
+			],
+			[
+				"fileserach",
+				"File: Search Files"
+			],
+			[
+				"file",
+				"File: Search Files"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sftped",
+				"SFTP: Edit Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"sidebkey",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 273.0,
+		"history":
+		[
+			"clear",
+			"hello",
+			"/bin/zsh -l",
+			"path",
+			"sys.path",
+			"g++ .",
+			"for 0 in 0...1 {d}",
+			"for 0 in 0...1 ",
+			"d",
+			"d=2",
+			"hello",
+			"rb",
+			"tb",
+			"rn",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"create \"Default (OSX).sublime-mousemap\" in ~/Library/Application Support/Sublime Text 3/Packages/User",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Peyman/Documents/CS341"
+	],
+	"file_history":
+	[
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Peyman/Documents/CS341/P3Test/t1.in",
+		"/Users/Peyman/Documents/CS341/A9.txt",
+		"/Users/Peyman/Documents/CS341/P3Q1.cpp",
+		"/Users/Peyman/Documents/unpyc/UnPyc-disasm_0.18/README.txt",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.pyc",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-json/linter.py",
+		"/Users/Peyman/Documents/CS341/sftp-config.json",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/Peyman/Documents/CS341/P3Test/basic_test.in",
+		"/Users/Peyman/Documents/shit.cpp",
+		"/usr/include/curl/curl.h",
+		"/usr/include/c++/4.2.1/algorithm",
+		"/usr/include/c++/4.2.1/new",
+		"/usr/include/c++/4.2.1/bits/c++io.h",
+		"/Users/Peyman/Documents/CS341/P3Q1.cc",
+		"/Users/Peyman/.oh-my-zsh/custom/aliases.zsh",
+		"/Users/Peyman/Documents/CS341/a2q1test.cpp",
+		"/Users/Peyman/Documents/CS343/A5/shit.cc",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Projects/CS341.sublime-project",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-contrib-clang/linter.py",
+		"/Users/Peyman/Documents/CS341/P2Q1.cpp",
+		"/Users/Peyman/Documents/CS341/P2Test/basic_test.in",
+		"/Users/Peyman/Documents/CS456/A2/untitled.sh",
+		"/Users/Peyman/Documents/CS343/sftp-config.json",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2throwcatch.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/escapeSequenceTest.in",
+		"/Users/Peyman/Documents/CS343/shit.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3main.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2longjmp.txt",
+		"/Users/Peyman/Documents/CS343/A1/submit/q1returncodes.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2longjmp.cpp",
+		"/Users/Peyman/Documents/CS343/shit.cpp ",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3.testdoc",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3stringLiteral.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/testSuite",
+		"/Users/Peyman/Documents/CS343/A1/submit/correctStringsTest.in",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Projects/CS343.sublime-project",
+		"/Users/Peyman/Documents/CS343/A1/submit/whiteSpaceTest.in",
+		"/Users/Peyman/Documents/CS343/A1/submit/emptyTest.in",
+		"/Users/Peyman/Documents/CS343/A1/submit/testSuit",
+		"/Users/Peyman/Documents/CS343/A1/submit/stringliteral.dms",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3stringLiteral.h",
+		"/Users/Peyman/Documents/CS343/A1/submit/Makefile",
+		"/Users/Peyman/.ssh/config",
+		"/Users/Peyman/Documents/CS343/A1/q3/stringLiteral.h",
+		"/Users/Peyman/.zshrc",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2a.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2.cpp",
+		"/Users/Peyman/Documents/CS343/A1/q1/q1b",
+		"/Users/Peyman/Documents/CS343/cs343.sublime-project",
+		"/Users/Peyman/Documents/Make-WaterlooWorks-Great-Again/WaterlooWorks.sublime-project",
+		"/Users/Peyman/Documents/CS370/A1/CalculateNet.m",
+		"/Users/Peyman/Documents/CS370/A1/writeup.txt",
+		"/Users/Peyman/Documents/CS370/A1/fp2dec.m",
+		"/Users/Peyman/Documents/CS370/A1/randfp.m",
+		"/Users/Peyman/Documents/CS370/sftp-config.json",
+		"/Users/Peyman/Documents/CS370/A1/dec2fp.m",
+		"/Users/Peyman/Documents/CS343/A1/q2.cpp",
+		"/Users/Peyman/Documents/API/todo/Gemfile",
+		"/Users/Peyman/Documents/API/Gemfile",
+		"/Users/Peyman/Documents/CS343/A1/q2base.cpp",
+		"/Users/Peyman/Documents/file",
+		"/Users/Peyman/Documents/CS343/A1/q1base.cpp",
+		"/Users/Peyman/Documents/CS343/A1/testSuit",
+		"/Users/Peyman/Documents/CS343/A1/q1a.cpp",
+		"/Users/Peyman/Documents/CS343/A1/q1b.cpp",
+		"/Users/Peyman/Documents/CS343/A1/q1c.cpp",
+		"/Users/Peyman/Documents/CS343/A1/testSuit.rb",
+		"/Users/Peyman/Documents/test.txt",
+		"/Users/Peyman/Documents/shit.cpp~",
+		"/Users/Peyman/Documents/shit2.cpp",
+		"/Users/Peyman/Documents/#shit.cpp#",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/Dracula Color Scheme/README.md",
+		"/Users/Peyman/.bin/pr",
+		"/Users/Peyman/.bin/now",
+		"/Users/Peyman/Documents/Make-WaterlooWorks-Great-Again/now",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/Dracula Color Scheme/Dracula.tmTheme",
+		"/Users/Peyman/Documents/CS343/CPPLINT.cfg",
+		"/Users/Peyman/Documents/CS343/A1/CPPLINT.cfg",
+		"/Users/Peyman/Documents/ShopifyChallenge/answers.txt",
+		"/Users/Peyman/Documents/ShopifyChallenge/back-end.rb",
+		"/Users/Peyman/Documents/ShopifyChallenge/data-engineering.rb",
+		"/Users/Peyman/Documents/ShopifyChallenge/385e.rb",
+		"/Users/Peyman/Documents/ShopifyChallenge/front-end.html",
+		"/Users/Peyman/Documents/ShopifyChallenge/orders.json",
+		"/Users/Peyman/Documents/ShopifyChallenge/customers.json",
+		"/Users/Peyman/Documents/ShopifyChallenge/test.rb",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1505324351/StudentEnv.sftp-server/u0/pgardide/bin/krun",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1505324272/StudentEnv.sftp-server/u0/pgardide/bin/kmake",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Documents/ShopifyChallenge/customer.json",
+		"/Users/Peyman/Documents/CS343/q1base.cpp",
+		"/Users/Peyman/Documents/CS343/testing.ucc",
+		"/Users/Peyman/Documents/CS343/file",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Documents/CS350/sftp-config.json",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/thread/synch.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/syscall/proc_syscalls.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/vfs/vfspath.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/include/vnode.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/vfs/vnode.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/user/include/unistd.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/arch/mips/locore/trap.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/include/addrspace.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/include/kern/errno.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/arch/mips/include/vm.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/arch/mips/vm/dumbvm.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/proc/proc.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/thread/spinlock.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/include/current.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/dev/lamebus/lamebus.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/user/uw-testbin/hogparty/hogparty.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/arch/mips/include/types.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/include/thread.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/include/kern/wait.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/user/lib/libc/stdlib/malloc.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/syscall/loadelf.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/vm/kmalloc.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/startup/main.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/arch/mips/include/tlb.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/arch/mips/vm/ram.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/dev/lamebus/lamebus.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/arch/sys161/dev/lamebus_machdep.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/kern/include/lib.h",
+		"/Users/Peyman/Documents/CS350/os161-1.99/user/testbin/matmult/matmult.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/user/testbin/sort/sort.c",
+		"/Users/Peyman/Documents/CS350/os161-1.99/user/uw-testbin/vm-data2/vm-data2.c"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nbsp",
+			"nb",
+			"\\page",
+			"## 3",
+			"SubGraph",
+			"subgraph",
+			"SubGraph",
+			"subgraph",
+			"SubGraph",
+			"Clique",
+			"clique",
+			"CLIQUE",
+			"Clique",
+			"\\\\) = \\\\(",
+			"Array",
+			"N",
+			"{",
+			"<-",
+			"sum",
+			"≤p",
+			"###",
+			"(2)",
+			"(1)",
+			"__Claim__",
+			" **",
+			" *",
+			"^\\*",
+			"^*",
+			"*",
+			"*ALGORITHM FOR HAMILTONIAN PATH:*",
+			"HAMILTONIAN",
+			"**",
+			"claim",
+			"V1",
+			"V",
+			"2",
+			"1",
+			"claim",
+			"FOR HAM",
+			"```",
+			"SimplePath",
+			"Directed Hamiltonian Path",
+			"directed Hamiltonian Path",
+			"k",
+			"SubGraph",
+			"Clique",
+			"the graph",
+			"H",
+			"E",
+			"1",
+			"G1",
+			"for all",
+			"for",
+			"fo",
+			"all xi",
+			"b",
+			"B",
+			"b",
+			"cout",
+			"hide",
+			"window",
+			"'",
+			"hasEqualSumPartition",
+			"m",
+			"weight",
+			"W",
+			"exists",
+			"HE",
+			"first",
+			"HE",
+			"w",
+			"E",
+			"w",
+			"W",
+			"w",
+			"u",
+			"j",
+			"i",
+			"0",
+			"n",
+			"HE",
+			"dW",
+			"dH",
+			"dHE",
+			"[s]",
+			"HW",
+			"[s]",
+			"v",
+			"dH",
+			"n",
+			"j",
+			"i",
+			"0",
+			"w",
+			"V",
+			"v",
+			"V",
+			"i",
+			"count",
+			" ",
+			"  ",
+			"  \n\n  ",
+			"window",
+			"foo",
+			"cout",
+			"cout << \"item \"",
+			"n",
+			"s1",
+			"2[i - 1]",
+			"v1[i]",
+			"w[i]",
+			"w",
+			"v2",
+			"end",
+			"for",
+			"cin",
+			"v1",
+			"v2",
+			"w(",
+			"matrix",
+			"for",
+			"cout",
+			"for",
+			"cin",
+			"[N]",
+			"10",
+			"{",
+			"int"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Peyman/Documents/CS341/A10.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 3011,
+								"count": 1764,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										1633,
+										1634
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsl",
+									"hsla",
+									"rgb",
+									"hex_compressed",
+									"rgba",
+									"hex",
+									"webcolors"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".txt",
+								"current_syntax": "Markdown/Markdown",
+								"enabled": true,
+								"last_updated": 1511833009.03,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"parser": "markdown",
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"target": "browser",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Peyman/Documents/CS341/A10Q3.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2954,
+								2954
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 437,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".txt",
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1511833009.03
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"parser": "markdown",
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 717.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Peyman/Documents/CS341/A10Q2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2990,
+								2990
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 698,
+								"modified": false,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".txt",
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1511833009.03
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"parser": "markdown",
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1237.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Peyman/Documents/CS341/A10Q1.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2860,
+								2860
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 628,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".txt",
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1511833009.03
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"parser": "markdown",
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1517.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "CS341.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										41,
+										42
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										28,
+										29
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										62,
+										63
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										28,
+										29
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".sublime-project",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1511833009.03
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2088,
+								2092
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 781,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": null,
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1511833009.03
+							},
+							"default_dir": "/Users/Peyman/Documents/CS341",
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"parser": "github",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"target": "browser",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 170.0
+	},
+	"output.unicode_preview":
+	{
+		"height": 155.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "CS341.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"a2q1test.cpp"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"q3man",
+				"A1/submit/q3main.cpp"
+			],
+			[
+				"q3s",
+				"A1/submit/q3stringLiteral.cpp"
+			],
+			[
+				".h",
+				"A1/submit/q3stringLiteral.h"
+			],
+			[
+				"s.h",
+				"A1/q3/stringLiteral.h"
+			],
+			[
+				".tx",
+				"A1/writeup.txt"
+			],
+			[
+				"rand",
+				"A1/randfp.m"
+			],
+			[
+				"menu",
+				"os161-1.99/kern/startup/menu.c"
+			],
+			[
+				"hogpart",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"add.c",
+				"os161-1.99/kern/include/addrspace.h"
+			],
+			[
+				"main.c",
+				"os161-1.99/kern/startup/main.c"
+			],
+			[
+				"vmdata",
+				"os161-1.99/user/uw-testbin/vm-data2/vm-data2.c"
+			],
+			[
+				"matm",
+				"os161-1.99/user/testbin/matmult/matmult.c"
+			],
+			[
+				"sort",
+				"os161-1.99/user/testbin/sort/sort.c"
+			],
+			[
+				"crash",
+				"os161-1.99/user/testbin/crash/crash.c"
+			],
+			[
+				"example",
+				"os161-1.99/user/my-testbin/example/example.c"
+			],
+			[
+				"onefork",
+				"os161-1.99/user/uw-testbin/onefork/onefork.c"
+			],
+			[
+				"widefor",
+				"os161-1.99/user/uw-testbin/widefork/widefork.c"
+			],
+			[
+				"vmcrash",
+				"os161-1.99/user/uw-testbin/vm-crash2/vm-crash2.c"
+			],
+			[
+				"rome",
+				"os161-1.99/user/uw-testbin/romemwrite/romemwrite.c"
+			],
+			[
+				"syscall",
+				"os161-1.99/kern/syscall/file_syscalls.c"
+			],
+			[
+				"r",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"run",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"argtestte",
+				"os161-1.99/user/uw-testbin/argtesttest/argtesttest.c"
+			],
+			[
+				"ragtest",
+				"os161-1.99/user/testbin/argtest/argtest.c"
+			],
+			[
+				"argtest",
+				"os161-1.99/user/uw-testbin/argtest/argtest.c"
+			],
+			[
+				"runp",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"cat.c",
+				"os161-1.99/user/bin/cat/cat.c"
+			],
+			[
+				"sty",
+				"os161-1.99/user/testbin/sty/sty.c"
+			],
+			[
+				"procsys",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"fau",
+				"os161-1.99/user/testbin/faulter/faulter.c"
+			],
+			[
+				"xho",
+				"os161-1.99/user/uw-testbin/xhog/xhog.c"
+			],
+			[
+				"sink",
+				"os161-1.99/user/testbin/sink/sink.c"
+			],
+			[
+				"kitchen",
+				"os161-1.99/user/testbin/kitchen/kitchen.c"
+			],
+			[
+				"forktest",
+				"os161-1.99/user/testbin/forktest/forktest.c"
+			],
+			[
+				"farm",
+				"os161-1.99/user/testbin/farm/farm.c"
+			],
+			[
+				"argtesttest",
+				"os161-1.99/user/uw-testbin/argtesttest/argtesttest.c"
+			],
+			[
+				"hog",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"examp",
+				"os161-1.99/user/my-testbin/example/example.c"
+			],
+			[
+				"hog.c",
+				"os161-1.99/user/testbin/hog/hog.c"
+			],
+			[
+				"arg",
+				"os161-1.99/user/uw-testbin/argtest/argtest.c"
+			],
+			[
+				"type",
+				"os161-1.99/kern/include/types.h"
+			],
+			[
+				"add",
+				"os161-1.99/user/testbin/add/add.c"
+			],
+			[
+				"menuc",
+				"os161-1.99/kern/startup/menu.c"
+			],
+			[
+				"syscall.c",
+				"os161-1.99/user/my-testbin/syscall/syscall.c"
+			],
+			[
+				"/bin/cat",
+				"os161-1.99/user/bin/cat/cat.c"
+			],
+			[
+				"types",
+				"os161-1.99/kern/include/types.h"
+			],
+			[
+				"limit",
+				"os161-1.99/kern/include/limits.h"
+			],
+			[
+				"kmallo",
+				"os161-1.99/kern/vm/kmalloc.c"
+			],
+			[
+				"copyin",
+				"os161-1.99/kern/include/copyinout.h"
+			],
+			[
+				"syscall.h",
+				"os161-1.99/kern/include/syscall.h"
+			],
+			[
+				"proc_ssys",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"zhog",
+				"os161-1.99/user/uw-testbin/zhog/zhog.c"
+			],
+			[
+				"yhog",
+				"os161-1.99/user/uw-testbin/yhog/yhog.c"
+			],
+			[
+				"xhog",
+				"os161-1.99/user/uw-testbin/xhog/xhog.c"
+			],
+			[
+				"hogpar",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"proc.c",
+				"os161-1.99/kern/proc/proc.c"
+			],
+			[
+				"wait",
+				"os161-1.99/man/syscall/waitpid.html"
+			],
+			[
+				"hogparty",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"sysscall.h",
+				"os161-1.99/kern/include/kern/syscall.h"
+			],
+			[
+				"exception",
+				"os161-1.99/kern/arch/mips/locore/exception-mips1.S"
+			],
+			[
+				"exec",
+				"os161-1.99/man/syscall/execv.html"
+			],
+			[
+				"proc_sys",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"ru",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"execv",
+				"os161-1.99/man/syscall/execv.html"
+			],
+			[
+				"w",
+				"os161-1.99/kern/include/wchan.h"
+			],
+			[
+				"onefor",
+				"os161-1.99/user/uw-testbin/onefork/onefork.c"
+			],
+			[
+				"one",
+				"os161-1.99/user/uw-testbin/onefork/onefork.c"
+			],
+			[
+				"pidchec",
+				"os161-1.99/user/uw-testbin/pidcheck/pidcheck.c"
+			],
+			[
+				"proc",
+				"os161-1.99/kern/proc/proc.c"
+			],
+			[
+				"pr",
+				"os161-1.99/kern/include/proc.h"
+			],
+			[
+				"pid_m",
+				"os161-1.99/kern/syscall/pid_manager.c"
+			],
+			[
+				"sync",
+				"os161-1.99/kern/include/synch.h"
+			],
+			[
+				".c",
+				"os161-1.99/kern/startup/main.c"
+			],
+			[
+				"arrayc",
+				"os161-1.99/kern/lib/array.c"
+			],
+			[
+				"main.",
+				"os161-1.99/kern/startup/main.c"
+			],
+			[
+				"fork",
+				"os161-1.99/man/syscall/fork.html"
+			],
+			[
+				"wide",
+				"os161-1.99/user/uw-testbin/widefork/widefork.c"
+			],
+			[
+				"widefo",
+				"os161-1.99/user/uw-testbin/widefork/widefork.c"
+			],
+			[
+				"arra",
+				"os161-1.99/kern/lib/array.c"
+			],
+			[
+				"sysc",
+				"os161-1.99/user/my-testbin/syscall/syscall.c"
+			],
+			[
+				"waitpid",
+				"os161-1.99/man/syscall/waitpid.html"
+			],
+			[
+				"que",
+				"os161-1.99/kern/include/queue.h"
+			],
+			[
+				"qu",
+				"os161-1.99/kern/lib/queue.c"
+			],
+			[
+				"pro",
+				"os161-1.99/kern/include/proc.h"
+			],
+			[
+				"mytest/sys",
+				"os161-1.99/user/my-testbin/syscall/syscall.c"
+			],
+			[
+				"synch",
+				"os161-1.99/kern/include/synch.h"
+			],
+			[
+				"pidm",
+				"os161-1.99/kern/syscall/pid_manager.c"
+			],
+			[
+				"array",
+				"os161-1.99/kern/include/array.h"
+			],
+			[
+				"fork.",
+				"os161-1.99/man/syscall/fork.html"
+			],
+			[
+				"exeption.s",
+				"os161-1.99/kern/arch/mips/locore/exception-mips1.S"
+			],
+			[
+				"threa.h",
+				"os161-1.99/kern/include/thread.h"
+			],
+			[
+				"thread.c",
+				"os161-1.99/kern/thread/thread.c"
+			],
+			[
+				"proc.h",
+				"os161-1.99/kern/include/proc.h"
+			],
+			[
+				"testsyscall",
+				"os161-1.99/user/my-testbin/syscall/syscall.c"
+			],
+			[
+				"threadtest",
+				"os161-1.99/kern/test/threadtest.c"
+			],
+			[
+				"thretest",
+				"os161-1.99/kern/test/threadtest.c"
+			],
+			[
+				"copy",
+				"os161-1.99/kern/include/copyinout.h"
+			],
+			[
+				"erro",
+				"os161-1.99/kern/include/kern/errno.h"
+			],
+			[
+				"pid",
+				"os161-1.99/kern/syscall/pid_manager.c"
+			],
+			[
+				"kern/erro",
+				"os161-1.99/kern/include/kern/errno.h"
+			],
+			[
+				"include/",
+				"os161-1.99/kern/include/addrspace.h"
+			],
+			[
+				"kern/syscall",
+				"os161-1.99/kern/arch/mips/syscall/syscall.c"
+			],
+			[
+				"palin",
+				"os161-1.99/user/testbin/palin/palin.c"
+			],
+			[
+				"sys",
+				"os161-1.99/user/uw-testbin/syscall/syscall.c"
+			],
+			[
+				"limits",
+				"os161-1.99/kern/include/limits.h"
+			],
+			[
+				"kern",
+				"os161-1.99/kern/conf/conf.kern"
+			],
+			[
+				"addr",
+				"os161-1.99/kern/include/addrspace.h"
+			],
+			[
+				"proccal",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"synchp",
+				"os161-1.99/kern/include/synchprobs.h"
+			],
+			[
+				"pidmana",
+				"os161-1.99/kern/include/pid_manager.h"
+			],
+			[
+				"syscal.c",
+				"os161-1.99/user/uw-testbin/syscall/syscall.c"
+			],
+			[
+				"ar",
+				"os161-1.99/kern/lib/array.c"
+			],
+			[
+				"opt",
+				"os161-1.99/kern/conf/ASST2-OPT"
+			],
+			[
+				"procsy",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"main",
+				"os161-1.99/kern/startup/main.c"
+			],
+			[
+				"conf.ker",
+				"os161-1.99/kern/conf/conf.kern"
+			],
+			[
+				"trap",
+				"os161-1.99/kern/arch/mips/locore/trap.c"
+			],
+			[
+				"man/exit",
+				"os161-1.99/man/syscall/_exit.html"
+			],
+			[
+				"man/fork",
+				"os161-1.99/man/syscall/fork.html"
+			],
+			[
+				"man/wait",
+				"os161-1.99/man/syscall/waitpid.html"
+			],
+			[
+				"kern/include/",
+				"os161-1.99/kern/include/queue.h"
+			],
+			[
+				"testbin/pla",
+				"os161-1.99/man/testbin/palin.html"
+			],
+			[
+				"mip",
+				"os161-1.99/kern/arch/mips/locore/exception-mips1.S"
+			],
+			[
+				"traffic",
+				"os161-1.99/kern/synchprobs/traffic_synch.c"
+			],
+			[
+				"traffi",
+				"os161-1.99/kern/synchprobs/traffic_synch.c"
+			],
+			[
+				"conf.k",
+				"os161-1.99/kern/conf/conf.kern"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Make-WaterlooWorks-Great-Again/WaterlooWorks.sublime-project"
+			],
+			[
+				"cs",
+				"~/Documents/CS343/cs343.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vfsopen",
+				"vfs_open"
+			],
+			[
+				"open",
+				"open"
+			],
+			[
+				"sysfork",
+				"sys_fork"
+			],
+			[
+				"cvsig",
+				"cv_signal"
+			],
+			[
+				"lock_ac",
+				"lock_acquire"
+			],
+			[
+				"fork",
+				"sys_fork"
+			],
+			[
+				"STACKTO",
+				"USERSTACKBOT"
+			],
+			[
+				"MKWA",
+				"_MKWAIT_SIG"
+			],
+			[
+				"getpp",
+				"getppages"
+			],
+			[
+				"malloc",
+				"malloc"
+			],
+			[
+				"round",
+				"ROUNDUP"
+			],
+			[
+				"ROU",
+				"ROUNDUP"
+			],
+			[
+				"maloc",
+				"malloc"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"allockp",
+				"alloc_kpages"
+			],
+			[
+				"vm_fa",
+				"vm_fault"
+			],
+			[
+				"tlbran",
+				"tlb_random"
+			],
+			[
+				"sysext",
+				"sys__exit"
+			],
+			[
+				"",
+				"$(_T_):"
+			],
+			[
+				"PADDR",
+				"PADDR_TO_KVADDR"
+			],
+			[
+				"runpro",
+				"runprogram"
+			],
+			[
+				"O_RDONLY",
+				"O_RDONLY"
+			],
+			[
+				"sys_wait",
+				"sys_waitpid"
+			],
+			[
+				"waitpid",
+				"waitpid"
+			],
+			[
+				"panic",
+				"panic"
+			],
+			[
+				"proc_dest",
+				"proc_destroy"
+			],
+			[
+				"DOUNDUP",
+				"DIVROUNDUP"
+			],
+			[
+				"E2",
+				"E2BIG"
+			],
+			[
+				"strLen",
+				"strlen"
+			],
+			[
+				"memcp",
+				"memcpy"
+			],
+			[
+				"copyout",
+				"copyout"
+			],
+			[
+				"putchar",
+				"putchar"
+			],
+			[
+				"vfs_biglock",
+				"vfs_biglock_acquire"
+			],
+			[
+				"proc_crae",
+				"proc_create_runprogram"
+			],
+			[
+				"as_Co",
+				"as_copy"
+			],
+			[
+				"as_c",
+				"as_copy"
+			],
+			[
+				"spinlock",
+				"spinlock_acquire"
+			],
+			[
+				"spinlocka",
+				"spinlock_acquire"
+			],
+			[
+				"MKWai",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"threadcre",
+				"thread_create"
+			],
+			[
+				"setas",
+				"curproc_setas"
+			],
+			[
+				"as_act",
+				"as_activate"
+			],
+			[
+				"DB_SYS",
+				"DB_SYSCALL"
+			],
+			[
+				"_MK",
+				"_MKWAIT_CORE"
+			],
+			[
+				"array_remo",
+				"array_remove"
+			],
+			[
+				"MKW",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"print",
+				"snprintf"
+			],
+			[
+				"cv_",
+				"cv_create"
+			],
+			[
+				"cv",
+				"cv_broadcast"
+			],
+			[
+				"EMPROC",
+				"EMPROC"
+			],
+			[
+				"proc",
+				"proc_create_runprogram"
+			],
+			[
+				"memc",
+				"memcpy"
+			],
+			[
+				"_WEX",
+				"__WEXITED"
+			],
+			[
+				"proc_des",
+				"proc_destroy"
+			],
+			[
+				"exit",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"mkexit",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"exut",
+				"WEXITSTATUS"
+			],
+			[
+				"new_o",
+				"new_proccess"
+			],
+			[
+				"new_p",
+				"new_child_process"
+			],
+			[
+				"mips_user",
+				"mips_usermode"
+			],
+			[
+				"sys_wr",
+				"sys_write"
+			],
+			[
+				"_write",
+				"SYS_write"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"thread_fork",
+				"thread_fork"
+			],
+			[
+				"enterfo",
+				"enter_forked_process"
+			],
+			[
+				"enter_new_process",
+				"enter_new_process"
+			],
+			[
+				"trap",
+				"trapframe"
+			],
+			[
+				"array",
+				"array_add"
+			],
+			[
+				"array_a",
+				"array_add"
+			],
+			[
+				"PID_MAX",
+				"PID_MAX"
+			],
+			[
+				"curpset",
+				"curproc_setas"
+			],
+			[
+				"curproc_setas",
+				"curproc_setas"
+			],
+			[
+				"as_cop",
+				"as_copy"
+			],
+			[
+				"proccre",
+				"proc_create_runprogram"
+			],
+			[
+				"proc_crea",
+				"proc_create_runprogram"
+			],
+			[
+				"__pid_t",
+				"__pid_t"
+			],
+			[
+				"pid_t",
+				"pid_t"
+			],
+			[
+				"semaph",
+				"semaphore"
+			],
+			[
+				"mips_tra",
+				"mips_trap"
+			],
+			[
+				"curThre",
+				"curthread"
+			],
+			[
+				"sys___time",
+				"sys___time"
+			],
+			[
+				"GROUP_VERSION",
+				"GROUP_VERSION"
+			],
+			[
+				"pidmin",
+				"PID_MIN"
+			],
+			[
+				"min",
+				"MIN"
+			],
+			[
+				"trafi",
+				"traffic_simulation"
+			],
+			[
+				"dthea",
+				"DB_THREADS"
+			],
+			[
+				"dth",
+				"DB_THREADS"
+			],
+			[
+				"kprin",
+				"kprintf"
+			],
+			[
+				"WIFEX",
+				"WIFEXITED"
+			],
+			[
+				"syscall",
+				"syscall"
+			],
+			[
+				"synch",
+				"_SYNCH_H_"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

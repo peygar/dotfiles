@@ -1,0 +1,41 @@
+#!/bin/zsh
+
+local base="develop"
+if [[ -n "$1" ]]; then
+    base="$1"
+fi
+local remote="origin"
+if [[ ! -z $1 ]]; then
+    base=$1
+fi
+
+if [ ! -d .git ] || [ -z "$(git rev-parse --is-in-work-tree) 2>/dev/null" ]; then
+        echo "Error: Y'all aint in a git repo"
+        exit 1
+fi
+
+git branch -r | grep "^\s*${remote}/${base}$" > /dev/null
+if [[ ! $? -eq 0 ]]; then
+    echo "Error: branch $base does not exist on remote $remote"
+    exit 2
+fi
+
+local branch="$(git symbolic-ref --short -q HEAD)"
+if [ -z "$branch" ]; then
+        echo "Error: Aint no body know what branch you're on"
+        exit 3
+fi
+
+local remote_url="$(git remote get-url ${remote})"
+# echo $remote_url
+local regex="git@github.com:(.*)/(.*).git"
+if [[ $remote_url =~ $regex ]]; then
+        local user=${BASH_REMATCH[1]}
+        local repo=${BASH_REMATCH[2]}
+        # echo $user
+        # echo $repo
+        open "http://github.com/${user}/${repo}/compare/${base}...${branch}"
+else
+        echo "Error: remote url $remote_url does not match a github ssh remote"
+        exit 4
+fi

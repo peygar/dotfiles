@@ -1,0 +1,2372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"buf",
+				"bufferSize"
+			],
+			[
+				"a",
+				"acquire"
+			],
+			[
+				"ac",
+				"acquire\t(q3BoundedBuffer.h)"
+			],
+			[
+				"waitin",
+				"prodWaiting"
+			],
+			[
+				"wait",
+				"wait"
+			],
+			[
+				"prod",
+				"prodBargeCond"
+			],
+			[
+				"waiting",
+				"prodWaiting"
+			],
+			[
+				"consC",
+				"consBargeCond"
+			],
+			[
+				"barg",
+				"bargeCondition"
+			],
+			[
+				"prodC",
+				"prodBargerCondition"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"if_",
+				"if_\tif(…)"
+			],
+			[
+				"uLo",
+				"uOwnerLock\t(q3BoundedBuffer.h)"
+			],
+			[
+				"mpr",
+				"MPRNG.h"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"item",
+				"itemNum"
+			],
+			[
+				"total",
+				"totalSum"
+			],
+			[
+				"buffer",
+				"buffer"
+			],
+			[
+				"Buffer",
+				"BoundedBuffer\t(q3producer.h)"
+			],
+			[
+				"Prod",
+				"Producer\t(q3producer.h)"
+			],
+			[
+				"unu",
+				"unique_ptr"
+			],
+			[
+				"Pro",
+				"Produce"
+			],
+			[
+				"tr",
+				"try\ttry catch block"
+			],
+			[
+				"mid",
+				"middle"
+			],
+			[
+				"buff",
+				"bufferSize"
+			],
+			[
+				"produ",
+				"produce"
+			],
+			[
+				"uns",
+				"unsigned"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"output",
+				"outputStream"
+			],
+			[
+				"print",
+				"printArray"
+			],
+			[
+				"ty",
+				"typename\t(q2quicksort.h)"
+			],
+			[
+				"temp",
+				"template\t(q2quicksort.h)"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"unsort",
+				"unsortedValue"
+			],
+			[
+				"q2",
+				"q2quicksort.h"
+			],
+			[
+				"Vec",
+				"VECTOR2"
+			],
+			[
+				"Out",
+				"OUTFILE"
+			],
+			[
+				"St",
+				"STUDENT_ENV\t(aliases.zsh)"
+			],
+			[
+				"S",
+				"Same\t(q3.txt)"
+			],
+			[
+				"dum",
+				"dumpBuffer"
+			],
+			[
+				"max",
+				"maxBufferId"
+			],
+			[
+				"_Cat",
+				"_CatchResume"
+			],
+			[
+				"sh",
+				"schmilblick"
+			],
+			[
+				"num",
+				"numplayers"
+			],
+			[
+				"N",
+				"NoOfCards"
+			],
+			[
+				"ga",
+				"gameNumCards"
+			],
+			[
+				"rando",
+				"randomizeIfNotSet"
+			],
+			[
+				"NOTS",
+				"INPUT_NOT_SET"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"input",
+				"inputStream"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"nu",
+				"numPlayers"
+			],
+			[
+				"namespac",
+				"namespace\tnamespace std"
+			],
+			[
+				"using",
+				"usingt\tUsing statement (templated)"
+			],
+			[
+				"starting",
+				"startingPlayer"
+			],
+			[
+				"prev",
+				"prevIndex"
+			],
+			[
+				"NO",
+				"NoOfPlayers"
+			],
+			[
+				"play",
+				"players"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"getD",
+				"getEndGame"
+			],
+			[
+				"rem",
+				"remainingCards"
+			],
+			[
+				"remin",
+				"remainingCards"
+			],
+			[
+				"rema",
+				"RemainingPlayers"
+			],
+			[
+				"No",
+				"NoOfPlayers"
+			],
+			[
+				"get",
+				"getLoss"
+			],
+			[
+				"player",
+				"q2player.h"
+			],
+			[
+				"prin",
+				"q2printer.h"
+			],
+			[
+				"out",
+				"outputStream"
+			],
+			[
+				"inpu",
+				"inputQueue"
+			],
+			[
+				"sorted",
+				"sortedValue"
+			],
+			[
+				"SE",
+				"Sentinel"
+			],
+			[
+				"bin",
+				"binsertsort"
+			],
+			[
+				"q1",
+				"q1binsertsort.h"
+			],
+			[
+				"resu",
+				"resume"
+			],
+			[
+				"cor",
+				"correct\t(q3.testdoc)"
+			],
+			[
+				"string",
+				"stringliteral"
+			],
+			[
+				"handl",
+				"handleEncoding"
+			],
+			[
+				"ev",
+				"env2"
+			],
+			[
+				"lon",
+				"longjmp"
+			],
+			[
+				"long",
+				"longjmp\t(shit.cpp)"
+			],
+			[
+				"error",
+				"error_ptr"
+			],
+			[
+				"re",
+				"remote"
+			],
+			[
+				"rt",
+				"rtn2"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"retu",
+				"returnCode"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"valid",
+				"validate_customer"
+			],
+			[
+				"inval",
+				"invalid_fields"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"isa",
+				"is_a?\tfunc"
+			],
+			[
+				"validate",
+				"validate_field"
+			],
+			[
+				"invali",
+				"invalid_customers"
+			],
+			[
+				"cust",
+				"customer"
+			],
+			[
+				"tota",
+				"total_pages"
+			],
+			[
+				"joi",
+				"joined_array"
+			],
+			[
+				"tot",
+				"total_orders_by_steve"
+			],
+			[
+				"totla",
+				"total_orders_by_steve"
+			],
+			[
+				"join",
+				"joined_array"
+			],
+			[
+				"each",
+				"each\tfunc"
+			],
+			[
+				"merge",
+				"merge_recursively"
+			],
+			[
+				"fore",
+				"foreign_key"
+			],
+			[
+				"for",
+				"foreign_json"
+			],
+			[
+				"prim",
+				"primary_hash"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"key",
+				"key?\tfunc"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"delete",
+				"delete!\tfunc"
+			],
+			[
+				"H",
+				"HELLO"
+			],
+			[
+				"ke",
+				"key2"
+			],
+			[
+				"is_",
+				"is_first_key_unique"
+			],
+			[
+				"json",
+				"json_array2"
+			],
+			[
+				"nil",
+				"nil?\tfunc"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"js",
+				"json_array1"
+			],
+			[
+				"has",
+				"hash_table1"
+			],
+			[
+				"delet",
+				"delete\tfunc"
+			],
+			[
+				"remove",
+				"remove\tfunc"
+			],
+			[
+				"def",
+				"default\t(q1a.cpp)"
+			],
+			[
+				"name",
+				"namespace\tnamespace std"
+			],
+			[
+				"id",
+				"ifnd\tifndef (…)"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"vbase",
+				"vbase1"
+			],
+			[
+				"allo",
+				"alloc_kpages"
+			],
+			[
+				"KV",
+				"PADDR_TO_KVADDR"
+			],
+			[
+				"VA",
+				"vaddr_t"
+			],
+			[
+				"pad",
+				"paddr_t"
+			],
+			[
+				"i",
+				"ifnd\tifndef (…)"
+			],
+			[
+				"PAGE",
+				"PAGE_SIZE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "keb",
+		"selected_items":
+		[
+			[
+				"keb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"keybins",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"table ena",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"editpr",
+				"Project: Edit Project"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keybindsde",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"c++",
+				"Set Syntax: uC++"
+			],
+			[
+				"keyib",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"uC",
+				"Set Syntax: uC++"
+			],
+			[
+				"uC++",
+				"Set Syntax: uC++"
+			],
+			[
+				"uc",
+				"Set Syntax: uC++"
+			],
+			[
+				"sidebysi",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"sidebyside",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"s",
+				"SFTP: Show Panel"
+			],
+			[
+				"openreso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"uc+",
+				"Set Syntax: uC++"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"side",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"sideby",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Opre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ed",
+				"Project: Edit"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"uc++",
+				"Set Syntax: uC++"
+			],
+			[
+				"bindings",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"u",
+				"Set Syntax: uC++"
+			],
+			[
+				"brows",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"syntax R",
+				"Set Syntax: R"
+			],
+			[
+				"downl",
+				"SFTP: Download File"
+			],
+			[
+				"dow",
+				"SFTP: Download File"
+			],
+			[
+				"downlo",
+				"SFTP: Download File"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"b",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sync ",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"project edi",
+				"Project: Edit"
+			],
+			[
+				"",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"sftpl",
+				"SFTP: Show Panel"
+			],
+			[
+				"u++",
+				"Set Syntax: uC++"
+			],
+			[
+				"edit proj",
+				"Project Manager: Edit Project"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sidebysett",
+				"Side-by-Side: Sublime Settings"
+			],
+			[
+				"projecedi",
+				"Project: Edit"
+			],
+			[
+				"tern",
+				"Terminal: Open in project folder"
+			],
+			[
+				"sideb",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"project manager",
+				"Preferences: Project Manager Key Bindings"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"projectm",
+				"Project Manager"
+			],
+			[
+				"ma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"syntaxmat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sidebi",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"lintthis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"toggleli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"showall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"removap",
+				"Package Control: Remove Package"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linview",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"sidebu",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"pacalist",
+				"Package Control: List Packages"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"index",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"sidebs",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"whocal",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"whoc",
+				"WhoCalled: Add/remove project folders"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"openn",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"openfiles",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"c",
+				"Set Syntax: CSS"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"keybinuser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"depend",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"file ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"filesea",
+				"File: Search Files"
+			],
+			[
+				"fileserach",
+				"File: Search Files"
+			],
+			[
+				"file",
+				"File: Search Files"
+			],
+			[
+				"sftped",
+				"SFTP: Edit Server…"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"sidebkey",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"react",
+				"Set Syntax: React Templates"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"packages_path()\t",
+			"cd",
+			"ls",
+			"get_clipboard()",
+			"import socket",
+			"print(\"hello\")",
+			"print (\"hello\")",
+			"print \"hello\"",
+			"puts \"hello\"",
+			"puts hello",
+			"s*5",
+			"s",
+			"s=4",
+			"s",
+			"s=2",
+			"g++ .",
+			"for 0 in 0...1 {d}",
+			"for 0 in 0...1 ",
+			"d",
+			"d=2",
+			"hello",
+			"rb",
+			"tb",
+			"rn",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"create \"Default (OSX).sublime-mousemap\" in ~/Library/Application Support/Sublime Text 3/Packages/User",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Peyman/Documents/API"
+	],
+	"file_history":
+	[
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Documents/CS343/shit.cpp",
+		"/Users/Peyman/Documents/shit.cpp",
+		"/Users/Peyman/Documents/CS343/A3/Makefile",
+		"/Users/Peyman/Documents/CS343/A3/q3producer.h",
+		"/Users/Peyman/Documents/CS343/A3/q3consumer.h",
+		"/Users/Peyman/Documents/CS343/A3/q3main.cpp",
+		"/Users/Peyman/Documents/CS343/A3/q3.txt",
+		"/Users/Peyman/Documents/CS343/A3/q3buffer.h",
+		"/Users/Peyman/Documents/CS343/A3/q2quicksort.h",
+		"/Users/Peyman/Documents/CS343/A3/q2.txt",
+		"/Users/Peyman/Documents/CS343/A3/q3runner.sh",
+		"/Users/Peyman/Documents/CS343/A3/q2runner.sh",
+		"/Users/Peyman/Documents/CS343/A3/quicksort.txt",
+		"/Users/Peyman/Documents/CS343/A3/q2main.cpp",
+		"/Users/Peyman/Documents/CS343/A3/q3producer.cpp",
+		"/Users/Peyman/Documents/CS343/A3/q3consumer.cpp",
+		"/Users/Peyman/Documents/CS343/A3/q3BoundedBuffer.h",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/while.sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/fori.sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/if-..-(if).sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/block-comment.sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/cout.sublime-snippet",
+		"/Users/Peyman/Documents/CS343/A3/q1main.cpp",
+		"/Users/Peyman/Documents/CS343/A2/q2main.cpp",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/oscout.sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Projects/CS343.sublime-project",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Documents/CS343/sftp-config.json",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/LICENSE.md",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/README.md",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Documents/CS343/A2/Makefile",
+		"/Users/Peyman/.oh-my-zsh/custom/aliases.zsh",
+		"/Users/Peyman/Documents/PD/PeymanGardidehReportSecondDraft.docx",
+		"/Users/Peyman/Documents/CS343/A3/rng",
+		"/Users/Peyman/Documents/PD/PDReportAttempt2.pages",
+		"/Users/Peyman/Documents/PD/ReportSecondDraft.pages",
+		"/Users/Peyman/Documents/CS343/A2/PRNG.h",
+		"/Users/Peyman/Documents/CS343/A3/MPRNG.h",
+		"/Users/Peyman/Documents/CS343/A2/q3.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3main.cpp",
+		"/Users/Peyman/.oh-my-zsh/themes/dracula.zsh-theme",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/preprocessor/ifndef.sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/ifndef.sublime-snippet",
+		"/Users/Peyman/Documents/CS343/A3/producer.h",
+		"/Users/Peyman/Documents/CS343/A3/producer.cpp",
+		"/Users/Peyman/Documents/CS343/A3/producer.ucc",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/try-catch.sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/utilities/try-catch.sublime-snippet",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/if",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/loops/while.sublime-snippet",
+		"/Users/Peyman/Documents/CS343/test.cpp",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Peyman/Documents/CS343/A3/q1new.txt",
+		"/Users/Peyman/Documents/CS343/A2/q1main.cpp",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/FileFinder/FileFinder.sublime-settings",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1508193630/StudentEnv.sftp-server/u0/pgardide/.gitignore-global",
+		"/Users/Peyman/Documents/CS343/A2/submit/Makefile",
+		"/Users/Peyman/Documents/CS343/A3/q1largetest.in",
+		"/Users/Peyman/Documents/CS343/A3/q1runner.sh",
+		"/Users/Peyman/Documents/CS343/A3/q1basictest.in",
+		"/Users/Peyman/Documents/CS343/A3/q1test.in",
+		"/Users/Peyman/.bin/potato",
+		"/Users/Peyman/Documents/CS343/q1test.in",
+		"/Users/Peyman/Documents/CS343/A2/q1binsertsort.h",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1507925665/StudentEnv.sftp-server/u0/pgardide/cs343/A3/q1new.txt",
+		"/Users/Peyman/Documents/CS343/A3/q1runner2.sh",
+		"/Users/Peyman/Documents/test.swift",
+		"/Users/Peyman/Documents/CS343/q3BoundedBuffer.h",
+		"/Users/Peyman/Documents/CS343/q2quicksort.h",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3.testdoc",
+		"/Users/Peyman/Documents/CS343/A2/cargametester.sh",
+		"/Users/Peyman/Documents/CS343/A2/q2.testtxt",
+		"/Users/Peyman/Documents/CS343/A2/q2test2.out",
+		"/Users/Peyman/Documents/CS343/A2/tester.sh",
+		"/Users/Peyman/Documents/CS343/A2/q2main.d",
+		"/Users/Peyman/Documents/CS343/A2/q2player.cpp",
+		"/Users/Peyman/Documents/shit.c",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include/stdbool.h",
+		"/Users/Peyman/.zshrc",
+		"/Users/Peyman/.bin/log",
+		"/Users/Peyman/Documents/CS343/A2/q2player.h",
+		"/Users/Peyman/Documents/CS343/A2/q2printer.h",
+		"/Users/Peyman/Documents/CS343/A2/q2printer.cpp",
+		"/Users/Peyman/Documents/CS343/A2/q3.txt",
+		"/Users/Peyman/Documents/CS343/A1/q3/input.cpp",
+		"/Users/Peyman/Documents/CS343/A2/2.out",
+		"/Users/Peyman/Documents/CS343/A1/q1/q1a.cpp",
+		"/Users/Peyman/Documents/CS343/A2/binsertsort.dms",
+		"/Users/Peyman/Documents/CS343/A2/cardgame.dms",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/Peyman/Documents/CS343/A2/q1tests/q1stringTest.in",
+		"/Users/Peyman/Documents/CS343/A2/q1test1.in",
+		"/Users/Peyman/Documents/CS343/A2/q1binsertsort.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3stringLiteral.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3stringLiteral.h",
+		"/Users/Peyman/Documents/CS343/A1/q3/stringLiteral.h",
+		"/Users/Peyman/Documents/CS343/A2/q1binsertsort.o",
+		"/Users/Peyman/Documents/CS343/A1/q3/stringLiteral.cpp",
+		"/Users/Peyman/Documents/CS343/q3.cpp",
+		"/Users/Peyman/.oh-my-zsh/custom/keybindings.zsh",
+		"/Users/Peyman/.oh-my-zsh/custom/example.zsh",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2throwcatch.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/escapeSequenceTest.in",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2longjmp.txt",
+		"/Users/Peyman/Documents/CS343/A1/submit/q1returncodes.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2longjmp.cpp",
+		"/Users/Peyman/Documents/CS343/shit.cpp ",
+		"/Users/Peyman/Documents/CS343/A1/submit/testSuite",
+		"/Users/Peyman/Documents/CS343/A1/submit/correctStringsTest.in",
+		"/Users/Peyman/Documents/CS343/A1/submit/whiteSpaceTest.in",
+		"/Users/Peyman/Documents/CS343/A1/submit/emptyTest.in",
+		"/Users/Peyman/Documents/CS343/A1/submit/testSuit",
+		"/Users/Peyman/Documents/CS343/A1/submit/stringliteral.dms",
+		"/Users/Peyman/Documents/CS343/A1/submit/Makefile",
+		"/Users/Peyman/.ssh/config",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2a.cpp",
+		"/Users/Peyman/Documents/CS343/A1/submit/q2.cpp",
+		"/Users/Peyman/Documents/CS343/A1/q1/q1b",
+		"/Users/Peyman/Documents/CS343/cs343.sublime-project",
+		"/Users/Peyman/Documents/Make-WaterlooWorks-Great-Again/WaterlooWorks.sublime-project",
+		"/Users/Peyman/Documents/CS370/A1/CalculateNet.m",
+		"/Users/Peyman/Documents/CS370/A1/writeup.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"super+shift+r",
+			"'",
+			"q2",
+			"(  )",
+			";",
+			"size",
+			"A",
+			"Depth",
+			"extractArg",
+			"reset(",
+			"i++)",
+			"for (",
+			"for",
+			"r",
+			":",
+			"for",
+			",",
+			"QUIET",
+			"prodWaiting",
+			"osacquire",
+			"rt( prodWaiting >= 0 );",
+			"assert( prod",
+			"broadcast",
+			"signal",
+			"prod",
+			"cons",
+			"++",
+			"prod",
+			"while",
+			"cout",
+			"assert",
+			"acquire",
+			"cout",
+			"item",
+			"cons",
+			"consCondition",
+			"prodCondition",
+			"prodWaiting",
+			"consWaiting",
+			"prodWaiting",
+			"shift+space",
+			"while",
+			"RAII",
+			"raii",
+			"RAII",
+			"<<",
+			" =",
+			"slurp",
+			"open_file",
+			"find_prev",
+			"sum",
+			"find_next",
+			"sum",
+			"goto",
+			"itemNum",
+			"extractArg",
+			"int",
+			"prods",
+			"cons",
+			"item",
+			",",
+			"(",
+			"const",
+			"BoundedBuffer::",
+			"BoundedBuffer",
+			"queue",
+			"sort",
+			"(un",
+			"i",
+			"\"\\n\"",
+			"bufferSize",
+			"end",
+			"bufferSize",
+			"cout",
+			"=",
+			"_Task",
+			"_TASK",
+			"_Task",
+			"l",
+			"in",
+			"ma",
+			"in",
+			"c",
+			"in",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"b",
+			"B",
+			"option",
+			"alt",
+			"super+alt+d",
+			"paste_from_history",
+			"command",
+			"alt",
+			"command",
+			"super",
+			"ctrl",
+			"in",
+			"i",
+			"whole",
+			"i",
+			"left",
+			"super+shift+k",
+			"i(i)",
+			", int i",
+			"endl",
+			"    lk.acquire();",
+			"q1new.txt",
+			"hell",
+			"i",
+			"hell",
+			"cout",
+			"-q"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"card"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "StarApi.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"quic",
+				"A3/q2quicksort.h"
+			],
+			[
+				"q3prod",
+				"A3/q3producer.h"
+			],
+			[
+				"q3con",
+				"A3/q3consumer.h"
+			],
+			[
+				"q3cons",
+				"A3/q3consumer.cpp"
+			],
+			[
+				"shit",
+				"shit.cpp"
+			],
+			[
+				"q2run",
+				"A3/q2runner.sh"
+			],
+			[
+				"makef",
+				"A3/Makefile"
+			],
+			[
+				"buff",
+				"A3/q3BoundedBuffer.h"
+			],
+			[
+				"q2main",
+				"A3/q2main.cpp"
+			],
+			[
+				"consu",
+				"A3/q3consumer.h"
+			],
+			[
+				"quick",
+				"A3/q2quicksort.h"
+			],
+			[
+				"q1main",
+				"A3/q1main.cpp"
+			],
+			[
+				"consume",
+				"A3/q3consumer.cpp"
+			],
+			[
+				"produ",
+				"A3/q3producer.h"
+			],
+			[
+				"make",
+				"A3/Makefile"
+			],
+			[
+				"bounded",
+				"A3/q3BoundedBuffer.h"
+			],
+			[
+				"q2runn",
+				"A3/q2runner.sh"
+			],
+			[
+				"q3main",
+				"A3/q3main.cpp"
+			],
+			[
+				"",
+				"A3/q3consumer.cpp"
+			],
+			[
+				"cons",
+				"A3/q3consumer.cpp"
+			],
+			[
+				"mpr",
+				"A3/MPRNG.h"
+			],
+			[
+				"mprn",
+				"A3/MPRNG.h"
+			],
+			[
+				"pr",
+				"A2/PRNG.h"
+			],
+			[
+				"q3consu",
+				"A3/q3consumer.h"
+			],
+			[
+				"q1main.cpp",
+				"A3/q1main.cpp"
+			],
+			[
+				"q3.cpp",
+				"A2/q3.cpp"
+			],
+			[
+				"q1new",
+				"A3/q1new.txt"
+			],
+			[
+				"q1ma",
+				"A2/q1main.cpp"
+			],
+			[
+				"makefile",
+				"A2/Makefile"
+			],
+			[
+				"q1runn",
+				"A3/q1runner.sh"
+			],
+			[
+				"q1.cpp",
+				"A3/q1main.cpp"
+			],
+			[
+				"runen",
+				"A3/q1runner.sh"
+			],
+			[
+				"q3.",
+				"A2/q3.cpp"
+			],
+			[
+				"large",
+				"A3/q1largetest.in"
+			],
+			[
+				"asictest.in",
+				"A3/q1basictest.in"
+			],
+			[
+				"binsert",
+				"A2/q1binsertsort.h"
+			],
+			[
+				".test",
+				"A1/submit/q3.testdoc"
+			],
+			[
+				"player",
+				"A2/q2player.cpp"
+			],
+			[
+				"test",
+				"A2/tester.sh"
+			],
+			[
+				".tst",
+				"A1/submit/q3.testdoc"
+			],
+			[
+				"q2print",
+				"A2/q2printer.h"
+			],
+			[
+				"printer",
+				"A2/q2printer.cpp"
+			],
+			[
+				"q2player",
+				"A2/q2player.h"
+			],
+			[
+				"q3.t",
+				"A2/q3.txt"
+			],
+			[
+				"q3.c",
+				"A2/q3.cpp"
+			],
+			[
+				"a2/q1",
+				"A2/q1main.cpp"
+			],
+			[
+				"main",
+				"A2/q2main.cpp"
+			],
+			[
+				"prng",
+				"A2/PRNG.h"
+			],
+			[
+				"rng",
+				"A2/PRNG.h"
+			],
+			[
+				"prn",
+				"A2/PRNG.h"
+			],
+			[
+				"print",
+				"A2/q2printer.cpp"
+			],
+			[
+				"1main",
+				"A2/q1main.cpp"
+			],
+			[
+				"q3",
+				"A1/submit/q3main.cpp"
+			],
+			[
+				"stringliter",
+				"A1/submit/q3stringLiteral.h"
+			],
+			[
+				"stringli",
+				"A1/q3/stringLiteral.h"
+			],
+			[
+				"q3man",
+				"A1/submit/q3main.cpp"
+			],
+			[
+				"q3s",
+				"A1/submit/q3stringLiteral.cpp"
+			],
+			[
+				".h",
+				"A1/submit/q3stringLiteral.h"
+			],
+			[
+				"s.h",
+				"A1/q3/stringLiteral.h"
+			],
+			[
+				".tx",
+				"A1/writeup.txt"
+			],
+			[
+				"rand",
+				"A1/randfp.m"
+			],
+			[
+				"menu",
+				"os161-1.99/kern/startup/menu.c"
+			],
+			[
+				"hogpart",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"add.c",
+				"os161-1.99/kern/include/addrspace.h"
+			],
+			[
+				"main.c",
+				"os161-1.99/kern/startup/main.c"
+			],
+			[
+				"vmdata",
+				"os161-1.99/user/uw-testbin/vm-data2/vm-data2.c"
+			],
+			[
+				"matm",
+				"os161-1.99/user/testbin/matmult/matmult.c"
+			],
+			[
+				"sort",
+				"os161-1.99/user/testbin/sort/sort.c"
+			],
+			[
+				"crash",
+				"os161-1.99/user/testbin/crash/crash.c"
+			],
+			[
+				"example",
+				"os161-1.99/user/my-testbin/example/example.c"
+			],
+			[
+				"onefork",
+				"os161-1.99/user/uw-testbin/onefork/onefork.c"
+			],
+			[
+				"widefor",
+				"os161-1.99/user/uw-testbin/widefork/widefork.c"
+			],
+			[
+				"vmcrash",
+				"os161-1.99/user/uw-testbin/vm-crash2/vm-crash2.c"
+			],
+			[
+				"rome",
+				"os161-1.99/user/uw-testbin/romemwrite/romemwrite.c"
+			],
+			[
+				"syscall",
+				"os161-1.99/kern/syscall/file_syscalls.c"
+			],
+			[
+				"r",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"run",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"argtestte",
+				"os161-1.99/user/uw-testbin/argtesttest/argtesttest.c"
+			],
+			[
+				"ragtest",
+				"os161-1.99/user/testbin/argtest/argtest.c"
+			],
+			[
+				"argtest",
+				"os161-1.99/user/uw-testbin/argtest/argtest.c"
+			],
+			[
+				"runp",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"cat.c",
+				"os161-1.99/user/bin/cat/cat.c"
+			],
+			[
+				"sty",
+				"os161-1.99/user/testbin/sty/sty.c"
+			],
+			[
+				"procsys",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"fau",
+				"os161-1.99/user/testbin/faulter/faulter.c"
+			],
+			[
+				"xho",
+				"os161-1.99/user/uw-testbin/xhog/xhog.c"
+			],
+			[
+				"sink",
+				"os161-1.99/user/testbin/sink/sink.c"
+			],
+			[
+				"kitchen",
+				"os161-1.99/user/testbin/kitchen/kitchen.c"
+			],
+			[
+				"forktest",
+				"os161-1.99/user/testbin/forktest/forktest.c"
+			],
+			[
+				"farm",
+				"os161-1.99/user/testbin/farm/farm.c"
+			],
+			[
+				"argtesttest",
+				"os161-1.99/user/uw-testbin/argtesttest/argtesttest.c"
+			],
+			[
+				"hog",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"examp",
+				"os161-1.99/user/my-testbin/example/example.c"
+			],
+			[
+				"hog.c",
+				"os161-1.99/user/testbin/hog/hog.c"
+			],
+			[
+				"arg",
+				"os161-1.99/user/uw-testbin/argtest/argtest.c"
+			],
+			[
+				"type",
+				"os161-1.99/kern/include/types.h"
+			],
+			[
+				"add",
+				"os161-1.99/user/testbin/add/add.c"
+			],
+			[
+				"menuc",
+				"os161-1.99/kern/startup/menu.c"
+			],
+			[
+				"syscall.c",
+				"os161-1.99/user/my-testbin/syscall/syscall.c"
+			],
+			[
+				"/bin/cat",
+				"os161-1.99/user/bin/cat/cat.c"
+			],
+			[
+				"types",
+				"os161-1.99/kern/include/types.h"
+			],
+			[
+				"limit",
+				"os161-1.99/kern/include/limits.h"
+			],
+			[
+				"kmallo",
+				"os161-1.99/kern/vm/kmalloc.c"
+			],
+			[
+				"copyin",
+				"os161-1.99/kern/include/copyinout.h"
+			],
+			[
+				"syscall.h",
+				"os161-1.99/kern/include/syscall.h"
+			],
+			[
+				"proc_ssys",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"zhog",
+				"os161-1.99/user/uw-testbin/zhog/zhog.c"
+			],
+			[
+				"yhog",
+				"os161-1.99/user/uw-testbin/yhog/yhog.c"
+			],
+			[
+				"xhog",
+				"os161-1.99/user/uw-testbin/xhog/xhog.c"
+			],
+			[
+				"hogpar",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"proc.c",
+				"os161-1.99/kern/proc/proc.c"
+			],
+			[
+				"wait",
+				"os161-1.99/man/syscall/waitpid.html"
+			],
+			[
+				"hogparty",
+				"os161-1.99/user/uw-testbin/hogparty/hogparty.c"
+			],
+			[
+				"sysscall.h",
+				"os161-1.99/kern/include/kern/syscall.h"
+			],
+			[
+				"exception",
+				"os161-1.99/kern/arch/mips/locore/exception-mips1.S"
+			],
+			[
+				"exec",
+				"os161-1.99/man/syscall/execv.html"
+			],
+			[
+				"proc_sys",
+				"os161-1.99/kern/syscall/proc_syscalls.c"
+			],
+			[
+				"ru",
+				"os161-1.99/kern/syscall/runprogram.c"
+			],
+			[
+				"execv",
+				"os161-1.99/man/syscall/execv.html"
+			],
+			[
+				"w",
+				"os161-1.99/kern/include/wchan.h"
+			],
+			[
+				"onefor",
+				"os161-1.99/user/uw-testbin/onefork/onefork.c"
+			],
+			[
+				"one",
+				"os161-1.99/user/uw-testbin/onefork/onefork.c"
+			],
+			[
+				"pidchec",
+				"os161-1.99/user/uw-testbin/pidcheck/pidcheck.c"
+			],
+			[
+				"proc",
+				"os161-1.99/kern/proc/proc.c"
+			],
+			[
+				"pid_m",
+				"os161-1.99/kern/syscall/pid_manager.c"
+			],
+			[
+				"sync",
+				"os161-1.99/kern/include/synch.h"
+			],
+			[
+				".c",
+				"os161-1.99/kern/startup/main.c"
+			],
+			[
+				"arrayc",
+				"os161-1.99/kern/lib/array.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Make-WaterlooWorks-Great-Again/WaterlooWorks.sublime-project"
+			],
+			[
+				"cs",
+				"~/Documents/CS343/cs343.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"insert"
+			],
+			[
+				"vfsopen",
+				"vfs_open"
+			],
+			[
+				"open",
+				"open"
+			],
+			[
+				"sysfork",
+				"sys_fork"
+			],
+			[
+				"cvsig",
+				"cv_signal"
+			],
+			[
+				"lock_ac",
+				"lock_acquire"
+			],
+			[
+				"fork",
+				"sys_fork"
+			],
+			[
+				"STACKTO",
+				"USERSTACKBOT"
+			],
+			[
+				"MKWA",
+				"_MKWAIT_SIG"
+			],
+			[
+				"getpp",
+				"getppages"
+			],
+			[
+				"malloc",
+				"malloc"
+			],
+			[
+				"round",
+				"ROUNDUP"
+			],
+			[
+				"ROU",
+				"ROUNDUP"
+			],
+			[
+				"maloc",
+				"malloc"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"allockp",
+				"alloc_kpages"
+			],
+			[
+				"vm_fa",
+				"vm_fault"
+			],
+			[
+				"tlbran",
+				"tlb_random"
+			],
+			[
+				"sysext",
+				"sys__exit"
+			],
+			[
+				"",
+				"$(_T_):"
+			],
+			[
+				"PADDR",
+				"PADDR_TO_KVADDR"
+			],
+			[
+				"runpro",
+				"runprogram"
+			],
+			[
+				"O_RDONLY",
+				"O_RDONLY"
+			],
+			[
+				"sys_wait",
+				"sys_waitpid"
+			],
+			[
+				"waitpid",
+				"waitpid"
+			],
+			[
+				"panic",
+				"panic"
+			],
+			[
+				"proc_dest",
+				"proc_destroy"
+			],
+			[
+				"DOUNDUP",
+				"DIVROUNDUP"
+			],
+			[
+				"E2",
+				"E2BIG"
+			],
+			[
+				"strLen",
+				"strlen"
+			],
+			[
+				"memcp",
+				"memcpy"
+			],
+			[
+				"copyout",
+				"copyout"
+			],
+			[
+				"putchar",
+				"putchar"
+			],
+			[
+				"vfs_biglock",
+				"vfs_biglock_acquire"
+			],
+			[
+				"proc_crae",
+				"proc_create_runprogram"
+			],
+			[
+				"as_Co",
+				"as_copy"
+			],
+			[
+				"as_c",
+				"as_copy"
+			],
+			[
+				"spinlock",
+				"spinlock_acquire"
+			],
+			[
+				"spinlocka",
+				"spinlock_acquire"
+			],
+			[
+				"MKWai",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"threadcre",
+				"thread_create"
+			],
+			[
+				"setas",
+				"curproc_setas"
+			],
+			[
+				"as_act",
+				"as_activate"
+			],
+			[
+				"DB_SYS",
+				"DB_SYSCALL"
+			],
+			[
+				"_MK",
+				"_MKWAIT_CORE"
+			],
+			[
+				"array_remo",
+				"array_remove"
+			],
+			[
+				"MKW",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"print",
+				"snprintf"
+			],
+			[
+				"cv_",
+				"cv_create"
+			],
+			[
+				"cv",
+				"cv_broadcast"
+			],
+			[
+				"EMPROC",
+				"EMPROC"
+			],
+			[
+				"proc",
+				"proc_create_runprogram"
+			],
+			[
+				"memc",
+				"memcpy"
+			],
+			[
+				"_WEX",
+				"__WEXITED"
+			],
+			[
+				"proc_des",
+				"proc_destroy"
+			],
+			[
+				"exit",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"mkexit",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"exut",
+				"WEXITSTATUS"
+			],
+			[
+				"new_o",
+				"new_proccess"
+			],
+			[
+				"new_p",
+				"new_child_process"
+			],
+			[
+				"mips_user",
+				"mips_usermode"
+			],
+			[
+				"sys_wr",
+				"sys_write"
+			],
+			[
+				"_write",
+				"SYS_write"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"thread_fork",
+				"thread_fork"
+			],
+			[
+				"enterfo",
+				"enter_forked_process"
+			],
+			[
+				"enter_new_process",
+				"enter_new_process"
+			],
+			[
+				"trap",
+				"trapframe"
+			],
+			[
+				"array",
+				"array_add"
+			],
+			[
+				"array_a",
+				"array_add"
+			],
+			[
+				"PID_MAX",
+				"PID_MAX"
+			],
+			[
+				"curpset",
+				"curproc_setas"
+			],
+			[
+				"curproc_setas",
+				"curproc_setas"
+			],
+			[
+				"as_cop",
+				"as_copy"
+			],
+			[
+				"proccre",
+				"proc_create_runprogram"
+			],
+			[
+				"proc_crea",
+				"proc_create_runprogram"
+			],
+			[
+				"__pid_t",
+				"__pid_t"
+			],
+			[
+				"pid_t",
+				"pid_t"
+			],
+			[
+				"semaph",
+				"semaphore"
+			],
+			[
+				"mips_tra",
+				"mips_trap"
+			],
+			[
+				"curThre",
+				"curthread"
+			],
+			[
+				"sys___time",
+				"sys___time"
+			],
+			[
+				"GROUP_VERSION",
+				"GROUP_VERSION"
+			],
+			[
+				"pidmin",
+				"PID_MIN"
+			],
+			[
+				"min",
+				"MIN"
+			],
+			[
+				"trafi",
+				"traffic_simulation"
+			],
+			[
+				"dthea",
+				"DB_THREADS"
+			],
+			[
+				"dth",
+				"DB_THREADS"
+			],
+			[
+				"kprin",
+				"kprintf"
+			],
+			[
+				"WIFEX",
+				"WIFEXITED"
+			],
+			[
+				"syscall",
+				"syscall"
+			],
+			[
+				"synch",
+				"_SYNCH_H_"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/.oh-my-zsh"
+		},
+        {
+            "path": "~",
+            "folder_exclude_patterns": ["*"]
+        },
+        {
+            "path": "~/Library/Application Support/Sublime Text 3",
+
+        },
+        {
+            "path": "~/Library/Themes"
+
+        }
+	]
+}

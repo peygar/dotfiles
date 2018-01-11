@@ -1,0 +1,16 @@
+pi = 4*a(1)
+e = e(1)
+define sin(x) {
+	return s(x);
+}
+define cos(x) {
+	return c(x);
+}
+
+define tan(x) {
+	return s(x) / c(x);
+}
+
+define ln(x) {
+	return l(x);
+}

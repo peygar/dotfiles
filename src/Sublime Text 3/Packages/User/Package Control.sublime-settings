@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"Calculate",
+		"Character Table",
+		"ColorHelper",
+		"Dracula Color Scheme",
+		"EasySettings",
+		"ExtendedTabSwitcher",
+		"FileFinder",
+		"Git",
+		"GitGutter",
+		"hextoASCII",
+		"Increment Selection",
+		"JumpTo",
+		"ListOpenFiles",
+		"Markdown Preview",
+		"Matlab Completions",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Project Specific Syntax Settings",
+		"ProjectManager",
+		"Ruby Completions",
+		"SCSS",
+		"SFTP",
+		"Side-by-Side Settings",
+		"SideBarEnhancements",
+		"Smart Backspace",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-eslint",
+		"SublimeLinter-json",
+		"Table Editor",
+		"Terminal",
+		"WakaTime",
+		"WordCount"
+	]
+}

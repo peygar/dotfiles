@@ -1,0 +1,93 @@
+{
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.pdf"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".hg",
+		".sass-cache",
+		".svn",
+		".min",
+		"bin",
+		"CVS",
+		"tmp",
+		".sass-cache",
+		".git",
+		".svn",
+		".hg",
+		"CVS",
+		".bundle",
+		"tmp",
+		"log",
+		".bower*",
+		".tmp",
+		"eclipsebin",
+		"dist",
+		"node_modules",
+		"bower_components"
+	],
+	"font_face":
+	[
+		"Source Code Pro",
+		"Menlo"
+	],
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_round"
+	],
+	"font_size": 13.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		120
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"scroll_speed": 2,
+	"show_full_path": true,
+	"sidebar_small": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}

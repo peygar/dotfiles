@@ -1,0 +1,2617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"un",
+				"unique_ptr\t(main.cpp)"
+			],
+			[
+				"gift",
+				"giftCard"
+			],
+			[
+				"git",
+				"giftCard"
+			],
+			[
+				"num",
+				"numVendingMachines"
+			],
+			[
+				"vendin",
+				"vendingMachines"
+			],
+			[
+				"vendi",
+				"vendingMachines"
+			],
+			[
+				"Vedn",
+				"VendingMachine"
+			],
+			[
+				"MPR",
+				"MPRNG.h\t(parent.cpp)"
+			],
+			[
+				"nextC",
+				"nextFWATCard"
+			],
+			[
+				"sign",
+				"signalBlock\t(vendingMachine.cpp)"
+			],
+			[
+				"transfer",
+				"transferSize"
+			],
+			[
+				"pr",
+				"printer"
+			],
+			[
+				"curr",
+				"currentStudentId"
+			],
+			[
+				"Vendin",
+				"VendingMachine::Free"
+			],
+			[
+				"gif",
+				"giftCard"
+			],
+			[
+				"name",
+				"namespace\tnamespace std"
+			],
+			[
+				"fWatC",
+				"fWATCards"
+			],
+			[
+				"numVedin",
+				"numVendingMachines"
+			],
+			[
+				"STU",
+				"Student"
+			],
+			[
+				"max",
+				"maxDetailUsed"
+			],
+			[
+				"bottl",
+				"bottlingPlant"
+			],
+			[
+				"maxFl",
+				"maxShippedPerFlavour\t(config.h)"
+			],
+			[
+				"parent",
+				"parentalDelay\t(config.h)"
+			],
+			[
+				"paren",
+				"parent.h"
+			],
+			[
+				"watca",
+				"watCard.h\t(watCardOffice.h)"
+			],
+			[
+				"group",
+				"groupOff.h\t(student.cpp)"
+			],
+			[
+				"truc",
+				"truck.h"
+			],
+			[
+				"bank",
+				"bank.h"
+			],
+			[
+				"stu",
+				"student.o\t(Makefile)"
+			],
+			[
+				"_T",
+				"_Task\tTask"
+			],
+			[
+				"watc",
+				"watcard\t(watCard.h)"
+			],
+			[
+				"with",
+				"withdraw\t(bank.cpp)"
+			],
+			[
+				"card",
+				"cardOffice"
+			],
+			[
+				"WatC",
+				"WATCardOffice\t(watCardOffice.h)"
+			],
+			[
+				"amoun",
+				"amount"
+			],
+			[
+				"numC",
+				"numCour"
+			],
+			[
+				"gro",
+				"groupOff.h\t(student.cpp)"
+			],
+			[
+				"off",
+				"groupOff"
+			],
+			[
+				"const",
+				"constants.h\t(vendingMachine.h)"
+			],
+			[
+				"vending",
+				"vendingMachine.h\t(vendingMachine.cpp)"
+			],
+			[
+				"_Mo",
+				"_Monitor"
+			],
+			[
+				"FWat",
+				"FWATCard"
+			],
+			[
+				"grou",
+				"groupoffDelay"
+			],
+			[
+				"gr",
+				"groupoffDelay"
+			],
+			[
+				"sod",
+				"sodaCost"
+			],
+			[
+				"nameser",
+				"nameServer.h\t(vendingMachine.cpp)"
+			],
+			[
+				"tru",
+				"true\t(vendingMachine.cpp)"
+			],
+			[
+				"so",
+				"sodaCost"
+			],
+			[
+				"remote",
+				"remote_url"
+			],
+			[
+				"prin",
+				"printer"
+			],
+			[
+				"nameserve",
+				"nameServer.h\t(bottlingPlant.cpp)"
+			],
+			[
+				"vend",
+				"vendingMachine.h\t(nameServer.cpp)"
+			],
+			[
+				"truck",
+				"truck.h\t(truck.cpp)"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"dele",
+				"delete_to_mark\t(Default (OSX).sublime-keymap)"
+			],
+			[
+				"_Ta",
+				"_Task"
+			],
+			[
+				"na",
+				"nameServer\t(bottlingPlant.cpp)"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"mprn",
+				"MPRNG.h"
+			],
+			[
+				"cons",
+				"constants.h"
+			],
+			[
+				"Bo",
+				"BottlingPlant::getShipment"
+			],
+			[
+				"studen",
+				"studentMachines"
+			],
+			[
+				"ven",
+				"vendingMachines"
+			],
+			[
+				"venc",
+				"vendingMachine.h"
+			],
+			[
+				"u",
+				"unsigned"
+			],
+			[
+				"def",
+				"default\t(q3main.cpp)"
+			],
+			[
+				"numVoter",
+				"numVotersInGroup"
+			],
+			[
+				"ifnd",
+				"ifndef"
+			],
+			[
+				"printer",
+				"q3printer.h"
+			],
+			[
+				"A",
+				"AUTOMATIC_SIGNAL\t(AutomaticSignal.h)"
+			],
+			[
+				"print",
+				"q3printer.h"
+			],
+			[
+				"tally",
+				"tallyBallot\t(q3tallyVotes.h)"
+			],
+			[
+				"back",
+				"backOfTheLine"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"q2",
+				"q2tallyVotes.h"
+			],
+			[
+				"_",
+				"_Select\tSelect Statement"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"backO",
+				"backOfTheLine.wait"
+			],
+			[
+				"_Cor",
+				"_Cormonitor\tCoroutine Monitor"
+			],
+			[
+				"Print",
+				"Printer::print"
+			],
+			[
+				"_Cormoni",
+				"_Cormonitor"
+			],
+			[
+				"tota",
+				"totalGiftShop\t(q2tallyVotesCommon.cpp)"
+			],
+			[
+				"tot",
+				"totalPicture\t(q2tallyVotesCommon.cpp)"
+			],
+			[
+				"2print",
+				"q2printer.h"
+			],
+			[
+				"Voter",
+				"Voter::Block\t(q2tallyVotesMC.cpp)"
+			],
+			[
+				"prnter",
+				"q2printer.h"
+			],
+			[
+				"total",
+				"totalStatue"
+			],
+			[
+				"to",
+				"totalStatue"
+			],
+			[
+				"pri",
+				"printer"
+			],
+			[
+				"cal",
+				"calculateCurrentTour\t(q2tallyVotes.h)"
+			],
+			[
+				"tour",
+				"tourGuide"
+			],
+			[
+				"numV",
+				"numVotersInGroup"
+			],
+			[
+				"incl",
+				"includes\t(q2tallyVotes.h)"
+			],
+			[
+				"throw",
+				"_Throw"
+			],
+			[
+				"opt",
+				"opts\t(q2printer.h)"
+			],
+			[
+				"printe",
+				"printTabSpaced"
+			],
+			[
+				"MP",
+				"MPRNG.h"
+			],
+			[
+				"q2p",
+				"q2printer.h"
+			],
+			[
+				"buf",
+				"bufferSize"
+			],
+			[
+				"a",
+				"acquire"
+			],
+			[
+				"ac",
+				"acquire\t(q3BoundedBuffer.h)"
+			],
+			[
+				"waitin",
+				"prodWaiting"
+			],
+			[
+				"wait",
+				"wait"
+			],
+			[
+				"prod",
+				"prodBargeCond"
+			],
+			[
+				"waiting",
+				"prodWaiting"
+			],
+			[
+				"consC",
+				"consBargeCond"
+			],
+			[
+				"barg",
+				"bargeCondition"
+			],
+			[
+				"prodC",
+				"prodBargerCondition"
+			],
+			[
+				"if_",
+				"if_\tif(…)"
+			],
+			[
+				"uLo",
+				"uOwnerLock\t(q3BoundedBuffer.h)"
+			],
+			[
+				"mpr",
+				"MPRNG.h"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"item",
+				"itemNum"
+			],
+			[
+				"buffer",
+				"buffer"
+			],
+			[
+				"Buffer",
+				"BoundedBuffer\t(q3producer.h)"
+			],
+			[
+				"Prod",
+				"Producer\t(q3producer.h)"
+			],
+			[
+				"unu",
+				"unique_ptr"
+			],
+			[
+				"Pro",
+				"Produce"
+			],
+			[
+				"mid",
+				"middle"
+			],
+			[
+				"buff",
+				"bufferSize"
+			],
+			[
+				"produ",
+				"produce"
+			],
+			[
+				"uns",
+				"unsigned"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"output",
+				"outputStream"
+			],
+			[
+				"ty",
+				"typename\t(q2quicksort.h)"
+			],
+			[
+				"temp",
+				"template\t(q2quicksort.h)"
+			],
+			[
+				"val",
+				"values"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Peyman/Documents/CS343/A4/q2tallyVotesBAR.cpp",
+			"settings":
+			{
+				"buffer_size": 1018,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"convert ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"wakatime",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"student",
+				"SublimeLinter: Disable Inline Tooltips"
+			],
+			[
+				"projecedi",
+				"Project: Edit"
+			],
+			[
+				"main",
+				"Snippet: main()"
+			],
+			[
+				"sideb",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"sidebsel",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"sidesetting",
+				"Side-by-Side: Sublime Settings"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"keb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"kebin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"list pak",
+				"Package Control: List Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"uc++",
+				"Set Syntax: uC++"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"uc+",
+				"Set Syntax: uC++"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelintersettings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"object",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"project edi",
+				"Project: Edit"
+			],
+			[
+				"projectsettings",
+				"Preferences: Project Manager Settings"
+			],
+			[
+				"rem",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"keybins",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"table ena",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"editpr",
+				"Project: Edit Project"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keybindsde",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keyib",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"uC",
+				"Set Syntax: uC++"
+			],
+			[
+				"uC++",
+				"Set Syntax: uC++"
+			],
+			[
+				"uc",
+				"Set Syntax: uC++"
+			],
+			[
+				"sidebysi",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"sidebyside",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"s",
+				"SFTP: Show Panel"
+			],
+			[
+				"openreso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"side",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"sideby",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"Opre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ed",
+				"Project: Edit"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"bindings",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"u",
+				"Set Syntax: uC++"
+			],
+			[
+				"brows",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"syntax R",
+				"Set Syntax: R"
+			],
+			[
+				"downl",
+				"SFTP: Download File"
+			],
+			[
+				"dow",
+				"SFTP: Download File"
+			],
+			[
+				"downlo",
+				"SFTP: Download File"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"b",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync ",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"sftpl",
+				"SFTP: Show Panel"
+			],
+			[
+				"u++",
+				"Set Syntax: uC++"
+			],
+			[
+				"edit proj",
+				"Project Manager: Edit Project"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sidebysett",
+				"Side-by-Side: Sublime Settings"
+			],
+			[
+				"tern",
+				"Terminal: Open in project folder"
+			],
+			[
+				"project manager",
+				"Preferences: Project Manager Key Bindings"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"projectm",
+				"Project Manager"
+			],
+			[
+				"ma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"syntaxmat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sidebi",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"lintthis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"toggleli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"showall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"removap",
+				"Package Control: Remove Package"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linview",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"sidebu",
+				"Side-by-Side: Sublime Key Bindings"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"pacalist",
+				"Package Control: List Packages"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"index",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"sidebs",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"whocal",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"whoc",
+				"WhoCalled: Add/remove project folders"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"openn",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"openfiles",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"c",
+				"Set Syntax: CSS"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"keybinuser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"packages_path()\t",
+			"cd",
+			"ls",
+			"get_clipboard()",
+			"import socket",
+			"print(\"hello\")",
+			"print (\"hello\")",
+			"print \"hello\"",
+			"puts \"hello\"",
+			"puts hello",
+			"s*5",
+			"s",
+			"s=4",
+			"s",
+			"s=2",
+			"g++ .",
+			"for 0 in 0...1 {d}",
+			"for 0 in 0...1 ",
+			"d",
+			"d=2",
+			"hello",
+			"rb",
+			"tb",
+			"rn",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"create \"Default (OSX).sublime-mousemap\" in ~/Library/Application Support/Sublime Text 3/Packages/User",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Peyman/Documents/CS343",
+		"/Users/Peyman/Documents/CS343/A6"
+	],
+	"file_history":
+	[
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotesAUTO.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q2tallyVotesCommon.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q2tallyVotesMC.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q2tallyVotesSEM.cpp",
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotesTASK.cpp",
+		"/Users/Peyman/Documents/CS343/A6/vendingMachine.cpp",
+		"/Users/Peyman/Documents/CS343/A6/watCardOffice.cpp",
+		"/Users/Peyman/Documents/CS343/A5/AutomaticSignal.h",
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotesINTB.cpp",
+		"/Users/Peyman/Documents/CS343/shit.cpp",
+		"/Users/Peyman/Documents/CS343/A6/soda2.config",
+		"/Users/Peyman/Documents/CS343/A6/groupOff.cpp",
+		"/Users/Peyman/Documents/CS343/A6/soda6.config",
+		"/Users/Peyman/Documents/CS343/A6/bank.cpp",
+		"/Users/Peyman/Documents/CS343/A6/vendingMachine.h",
+		"/Users/Peyman/Documents/CS343/A6/watCard.h",
+		"/Users/Peyman/Documents/CS343/A6/watCard.cpp",
+		"/Users/Peyman/Documents/CS343/A6/truck.cpp",
+		"/Users/Peyman/Documents/CS343/A6/student.h",
+		"/Users/Peyman/Documents/CS343/A6/student.cpp",
+		"/Users/Peyman/Documents/CS343/A6/bottlingPlant.cpp",
+		"/Users/Peyman/Documents/CS343/A6/bank.h",
+		"/Users/Peyman/Documents/CS343/A6/truck.h",
+		"/Users/Peyman/Documents/CS343/A6/bottlingPlant.h",
+		"/Users/Peyman/Documents/CS343/A6/constants.h",
+		"/Users/Peyman/Documents/CS343/A6/groupOff.h",
+		"/Users/Peyman/Documents/CS343/A6/main.cpp",
+		"/Users/Peyman/Documents/CS343/A6/nameServer.h",
+		"/Users/Peyman/Documents/CS343/A6/parent.cpp",
+		"/Users/Peyman/Documents/CS343/A6/nameServer.cpp",
+		"/Users/Peyman/Documents/CS343/A6/parent.h",
+		"/Users/Peyman/Documents/CS343/A6/printer.cpp",
+		"/Users/Peyman/Documents/CS343/A6/printer.h",
+		"/Users/Peyman/Documents/CS343/A6/watCardOffice.h",
+		"/Users/Peyman/Documents/uncompyle/python-uncompyle6/setup.py",
+		"/Users/Peyman/Documents/CS343/A6/soda4.config",
+		"/Users/Peyman/Documents/CS343/A6/soda.testdoc",
+		"/Users/Peyman/Documents/CS343/A6/soda7.config",
+		"/Users/Peyman/Documents/shit.cpp",
+		"/Users/Peyman/Documents/CS343/A6/soda3.config",
+		"/Users/Peyman/Documents/CS343/A6/soda5.config",
+		"/Users/Peyman/Documents/CS343/A6/soda1.config",
+		"/Users/Peyman/Documents/CS343/A6/soda0.config",
+		"/Users/Peyman/Documents/CS343/A6/soda.config",
+		"/Applications/Time Machine.app/Contents/Resources/hi.lproj/Menu.strings",
+		"/Users/Peyman/Documents/CS343/A6/student.",
+		"/Users/Peyman/Downloads/P3Q1.cpp",
+		"/Users/Peyman/.oh-my-zsh/custom/aliases.zsh",
+		"/Users/Peyman/Documents/CS343/A6/basic.config",
+		"/Users/Peyman/Documents/CS343/A6/fuckyougurpreet",
+		"/Users/Peyman/Documents/CS343/A6/test_script.sh",
+		"/Users/Peyman/Documents/CS343/A6/soda4",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1512115347/mapped/u0/pgardide/cs343/A6/errors",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include/stdbool.h",
+		"/Users/Peyman/Documents/CS343/A6/config.cc",
+		"/Users/Peyman/Documents/CS343/A6/util.h",
+		"/Users/Peyman/Documents/CS343/A6/MPRNG.h",
+		"/Users/Peyman/Documents/CS343/A6/config.h",
+		"/Users/Peyman/Documents/CS343/A5/q3printer.h",
+		"/Users/Peyman/Documents/CS343/A5/q3printer.cpp",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Projects/CS343.sublime-project",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/_Accept.sublime-snippet",
+		"/Users/Peyman/Documents/CS343/A6/Makefile",
+		"/Users/Peyman/Documents/CS343/sftp-config.json",
+		"/Users/Peyman/Documents/CS343/A6/printer.",
+		"/Users/Peyman/Documents/CS343/A2/submit/q2player.h",
+		"/Users/Peyman/Documents/CS343/A4/Makefile",
+		"/Users/Peyman/.bin/git-compare",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/Peyman/Documents/CS343/A2/q2printer.h",
+		"/Users/Peyman/Documents/CS343/A2/q2printer.cpp",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Peyman/Documents/CS343/A6/nameServer.",
+		"/Users/Peyman/Documents/CS343/A3/q2quicksort.h",
+		"/Users/Peyman/Documents/CS343/A6/sample_config.txt",
+		"/Users/Peyman/Documents/CS343/A6/NameServer.cpp",
+		"/Users/Peyman/Documents/CS343/A6/NameServer.h",
+		"/Users/Peyman/Documents/CS343/A2/q1main.cpp",
+		"/Users/Peyman/Documents/CS343/A5/q3main.cpp",
+		"/Users/Peyman/Documents/CS343/A5/Makefile",
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotes.h",
+		"/Users/Peyman/Documents/CS343/A5/q2.txt",
+		"/Users/Peyman/Documents/CS343/A5/q1.txt",
+		"/Users/Peyman/Documents/CS343/A5/q3.testdoc",
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotesEXT.cpp",
+		"/Users/Peyman/Documents/CS343/A5/.config",
+		"/Users/Peyman/Documents/CS343/A2/Makefile",
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotesINT.cpp",
+		"/Users/Peyman/Movies/TheWalkingDead-S08E05/the.walking.dead.s08e05.hdtv.x264-sva.nfo",
+		"/Users/Peyman/Documents/CS343/A4/q2tallyVotes.h",
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotesCommon.cpp",
+		"/Users/Peyman/Documents/CS343/A5/q3tallyVotesINT2.cpp",
+		"/Users/Peyman/Documents/CS343/A5/q3voter.cpp",
+		"/Users/Peyman/Documents/CS343/A5/MPRNG.h",
+		"/Users/Peyman/Documents/CS343/A5/q3voter.h",
+		"/Users/Peyman/Documents/CS343/A5/MPRNG2.h",
+		"/Users/Peyman/Documents/CS343/A5/q1.cc",
+		"/Users/Peyman/Documents/CS343/A5/q3.cc",
+		"/Users/Peyman/Documents/CS343/A4/q2.testdoc",
+		"/Users/Peyman/Documents/CS343/A4/q2tallyVotesBAR.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q2voter.h",
+		"/Users/Peyman/Documents/CS343/A4/q2voter.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q2main.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q2printer.h",
+		"/Users/Peyman/Documents/CS343/A4/q2printer.cpp",
+		"/Users/Peyman/Documents/CS343/A2/q3.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q1.txt",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1510030307/mapped/u0/pgardide/cs343/shit.out",
+		"/Users/Peyman/Documents/CS343/A2/q2.testtxt",
+		"/Users/Peyman/Documents/CS343/A4/q2.cc",
+		"/Users/Peyman/Documents/CS343/A1/submit/q3.testdoc",
+		"/Users/Peyman/Documents/shit.m",
+		"/Users/Peyman/Documents/CS343/A4/q1.cc",
+		"/Users/Peyman/Documents/CS343/A3/q1main.cpp",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1510030262/mapped/u0/pgardide/cs343/shit.out",
+		"/Users/Peyman/Documents/CS343/A3/q3main.cpp",
+		"/Users/Peyman/Documents/CS343/A3/q3BoundedBuffer.h",
+		"/Users/Peyman/Documents/CS343/A2/PRNG.h",
+		"/Users/Peyman/Documents/CS343/A4/q2tallyVotesBar.cpp",
+		"/Users/Peyman/Documents/CS343/A4/q2tallyVotes.cpp",
+		"/Users/Peyman/Documents/CS343/A2/q2main.cpp",
+		"/Users/Peyman/Documents/CS343/A3/MPRNG.h",
+		"/Users/Peyman/Documents/CS343/A1/q1/q1.cpp",
+		"/var/folders/bs/clflrhmd4yd6lm_cq8bfd3xm0000gn/T/sublime-sftp-browse-1509838696/mapped/u0/pgardide/cs343/shit.cpp",
+		"/Users/Peyman/Library/Application Support/Sublime Text 3/Packages/User/ucpp-subl2-syntax/snippets/030-for-int-loop-(fori).sublime-snippet"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"/Users/Peyman/Documents/CS343/",
+			"/Users/Peyman/Documents/CS343/A6",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"baton",
+			"install",
+			":q",
+			";q",
+			"    //",
+			" //",
+			"//",
+			"}//",
+			"set state",
+			"bench.signalBlock",
+			"signalBlock",
+			"signalblock",
+			"signalBlock",
+			"  // ",
+			"getBalance",
+			"//",
+			"soda4",
+			"++",
+			"block signal",
+			"{          ",
+			"//",
+			"block signal",
+			".",
+			"signalBlock",
+			"  //",
+			"//",
+			"//call",
+			"     //",
+			"      //",
+			"    //",
+			"   //",
+			" //",
+			"  // ",
+			"    //",
+			"  //",
+			"//",
+			"10",
+			"cerr",
+			"new",
+			"delete",
+			"new",
+			"cout",
+			"std",
+			"std;",
+			"NUM_",
+			"mprng(1",
+			"cout",
+			"new WATCard(",
+			"currentStudentId",
+			"groupoff",
+			"b",
+			"WATCard(",
+			"new",
+			"delete",
+			"num",
+			"rinter::Kind::Courier",
+			"Printer::Kind::Vending",
+			"Printer::Kind::Student",
+			"cout",
+			"before1",
+			"before2",
+			"vending di",
+			"vending",
+			"delete",
+			"before1",
+			"delete",
+			" =",
+			"unsigned",
+			"totalcar",
+			"TRANSACTION",
+			"TRANSACTION:",
+			" );",
+			"] )",
+			"] ",
+			",currentFlavour",
+			"totalSoda",
+			"totalsoda",
+			"maxSto",
+			"->getBalance()",
+			"giftCard",
+			"id",
+			"totalsoda",
+			"Vending",
+			"'S'",
+			"new",
+			"cout",
+			".print(",
+			"cout",
+			"Printer::p",
+			"cout",
+			"int ",
+			"before",
+			"delimiter1",
+			"<< i",
+			"endl",
+			"[]",
+			"heading",
+			"(int ",
+			"printTabSpaced",
+			"\n#",
+			"(kind)",
+			"index",
+			"6",
+			"used+",
+			"used=",
+			"used +",
+			"        ",
+			" =",
+			"    //",
+			"Printer::print",
+			"for (int",
+			"VendingMachine",
+			"vendingMachine",
+			"VendingMachine",
+			"vendingMachine",
+			"VendingMachine",
+			"printer",
+			"flavour",
+			"VendingMachine",
+			"vendingMachine",
+			"VendingMachine",
+			"vendingMachine",
+			"C c",
+			"getJob",
+			"args",
+			"->",
+			"TRANSACTION_LOOP",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"card"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Peyman/Documents/CS343/A4/q2tallyVotesBAR.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 54,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										749,
+										750
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										543,
+										544
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 17,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".cpp",
+								"current_syntax": "User/ucpp-subl2-syntax/uC++",
+								"enabled": false,
+								"last_updated": 1513936438.82
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/User/ucpp-subl2-syntax/uC++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"output.unicode_preview":
+	{
+		"height": 155.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "CS343.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"watcar",
+				"A6/watCardOffice.cpp"
+			],
+			[
+				"vend",
+				"A6/vendingMachine.cpp"
+			],
+			[
+				"tally",
+				"A5/q3tallyVotesTASK.cpp"
+			],
+			[
+				"tallyvotes",
+				"A4/q2tallyVotesCommon.cpp"
+			],
+			[
+				"a4tally",
+				"A4/q2tallyVotesBAR.cpp"
+			],
+			[
+				"bar",
+				"A4/q2tallyVotesBAR.cpp"
+			],
+			[
+				"auto",
+				"A5/q3tallyVotesAUTO.cpp"
+			],
+			[
+				"q3inb",
+				"A5/q3tallyVotesINTB.cpp"
+			],
+			[
+				"watca",
+				"A6/watCardOffice.h"
+			],
+			[
+				"printer.h",
+				"A6/printer.h"
+			],
+			[
+				"truck",
+				"A6/truck.h"
+			],
+			[
+				"bank.h",
+				"A6/bank.h"
+			],
+			[
+				"grou",
+				"A6/groupOff.cpp"
+			],
+			[
+				"soda6",
+				"A6/soda6.config"
+			],
+			[
+				"bank",
+				"A6/bank.cpp"
+			],
+			[
+				"stude",
+				"A6/student.cpp"
+			],
+			[
+				"nameser",
+				"A6/nameServer.cpp"
+			],
+			[
+				"parent",
+				"A6/parent.cpp"
+			],
+			[
+				"",
+				"A6/watCardOffice.cpp"
+			],
+			[
+				"plant",
+				"A6/bottlingPlant.cpp"
+			],
+			[
+				"bott",
+				"A6/bottlingPlant.cpp"
+			],
+			[
+				"names",
+				"A6/nameServer.cpp"
+			],
+			[
+				"vending",
+				"A6/vendingMachine.cpp"
+			],
+			[
+				"student",
+				"A6/student.cpp"
+			],
+			[
+				"watc",
+				"A6/watCard.cpp"
+			],
+			[
+				"soda3",
+				"A6/soda3.config"
+			],
+			[
+				"soda4",
+				"A6/soda4.config"
+			],
+			[
+				"fuck",
+				"A6/fuckyougurpreet"
+			],
+			[
+				"wac",
+				"A6/watCard.h"
+			],
+			[
+				"3config",
+				"A6/soda3.config"
+			],
+			[
+				"main",
+				"A6/main.cpp"
+			],
+			[
+				"watoff",
+				"A6/watCardOffice.cpp"
+			],
+			[
+				"go",
+				"A6/groupOff.cpp"
+			],
+			[
+				"cardof",
+				"A6/watCardOffice.cpp"
+			],
+			[
+				"gro",
+				"A6/groupOff.cpp"
+			],
+			[
+				"stu",
+				"A6/student.cpp"
+			],
+			[
+				"watcard",
+				"A6/watCard.cpp"
+			],
+			[
+				"wat",
+				"A6/watCard.cpp"
+			],
+			[
+				"shit",
+				"shit.cpp"
+			],
+			[
+				"groupoff",
+				"A6/groupOff.cpp"
+			],
+			[
+				"mpr",
+				"A6/MPRNG.h"
+			],
+			[
+				"namese",
+				"A6/nameServer.cpp"
+			],
+			[
+				"vedn",
+				"A6/vendingMachine.cpp"
+			],
+			[
+				"tru",
+				"A6/truck.cpp"
+			],
+			[
+				"ved",
+				"A6/vendingMachine.cpp"
+			],
+			[
+				"watcaof",
+				"A6/watCardOffice.h"
+			],
+			[
+				"print",
+				"A6/printer.cpp"
+			],
+			[
+				"name",
+				"A6/nameServer.cpp"
+			],
+			[
+				"ven",
+				"A6/vendingMachine.cpp"
+			],
+			[
+				"truc",
+				"A6/truck.cpp"
+			],
+			[
+				"watcof",
+				"A6/watCardOffice.h"
+			],
+			[
+				"bottl",
+				"A6/bottlingPlant.cpp"
+			],
+			[
+				"hit",
+				"shit.cpp"
+			],
+			[
+				"watcardh",
+				"A6/watCardOffice.h"
+			],
+			[
+				"printer",
+				"A6/printer.h"
+			],
+			[
+				"watcardoff",
+				"A6/watCardOffice.cpp"
+			],
+			[
+				"group",
+				"A6/groupOff.cpp"
+			],
+			[
+				"grouoff",
+				"A6/groupOff.cpp"
+			],
+			[
+				"pern",
+				"A6/parent.cpp"
+			],
+			[
+				"watcardoffice.h",
+				"A6/watCardOffice.h"
+			],
+			[
+				"watcardof",
+				"A6/watCardOffice.cpp"
+			],
+			[
+				"grouof",
+				"A6/groupOff.cpp"
+			],
+			[
+				"bottlin",
+				"A6/bottlingPlant.cpp"
+			],
+			[
+				"bottling",
+				"A6/bottlingPlant.cpp"
+			],
+			[
+				"5print",
+				"A5/q3printer.cpp"
+			],
+			[
+				"config.h",
+				"A6/config.h"
+			],
+			[
+				"planc",
+				"A6/bottlingPlant.cpp"
+			],
+			[
+				"studen",
+				"A6/student.cpp"
+			],
+			[
+				"consta",
+				"A6/constants.h"
+			],
+			[
+				"const",
+				"A6/constants.h"
+			],
+			[
+				"main.",
+				"A6/main.cpp"
+			],
+			[
+				"stuen",
+				"A6/student.cpp"
+			],
+			[
+				"mprng",
+				"A6/MPRNG.h"
+			],
+			[
+				"nameserver.cpp",
+				"A6/nameServer.cpp"
+			],
+			[
+				"task",
+				"A5/q3tallyVotesTASK.cpp"
+			],
+			[
+				"a4make",
+				"A4/Makefile"
+			],
+			[
+				"main.cp",
+				"A6/main.cpp"
+			],
+			[
+				"prinet.cpp",
+				"A6/printer.cpp"
+			],
+			[
+				"2printer",
+				"A2/q2printer.cpp"
+			],
+			[
+				"printerh",
+				"A6/printer.h"
+			],
+			[
+				"q2printer.cpp",
+				"A2/q2printer.cpp"
+			],
+			[
+				"5make",
+				"A5/Makefile"
+			],
+			[
+				"a1main",
+				"A2/q1main.cpp"
+			],
+			[
+				"5main",
+				"A5/q3main.cpp"
+			],
+			[
+				"q1txt",
+				"A5/q1.txt"
+			],
+			[
+				"q3tall",
+				"A5/q3tallyVotes.h"
+			],
+			[
+				"makefi",
+				"A5/Makefile"
+			],
+			[
+				"5makefile",
+				"A5/Makefile"
+			],
+			[
+				"makefil",
+				"A2/Makefile"
+			],
+			[
+				"autmat",
+				"A5/AutomaticSignal.h"
+			],
+			[
+				"intb",
+				"A5/q3tallyVotesINTB.cpp"
+			],
+			[
+				"int",
+				"A5/q3tallyVotesINT.cpp"
+			],
+			[
+				"q3ext",
+				"A5/q3tallyVotesEXT.cpp"
+			],
+			[
+				"q3tall.h",
+				"A5/q3tallyVotes.h"
+			],
+			[
+				"5common",
+				"A5/q3tallyVotesCommon.cpp"
+			],
+			[
+				"5printer",
+				"A5/q3printer.cpp"
+			],
+			[
+				"5q3comm",
+				"A5/q3tallyVotesCommon.cpp"
+			],
+			[
+				"ext",
+				"A5/q3tallyVotesEXT.cpp"
+			],
+			[
+				"sem",
+				"A4/q2tallyVotesSEM.cpp"
+			],
+			[
+				"common",
+				"A5/q3tallyVotesCommon.cpp"
+			],
+			[
+				"q2v",
+				"A4/q2tallyVotes.h"
+			],
+			[
+				"q3printer",
+				"A5/q3printer.h"
+			],
+			[
+				"q3voter.h",
+				"A5/q3voter.h"
+			],
+			[
+				"5voter",
+				"A5/q3voter.cpp"
+			],
+			[
+				"5prin.h",
+				"A5/q3printer.h"
+			],
+			[
+				"q2talmc",
+				"A4/q2tallyVotesMC.cpp"
+			],
+			[
+				"q2tally",
+				"A4/q2tallyVotes.h"
+			],
+			[
+				"q2mc",
+				"A4/q2tallyVotesMC.cpp"
+			],
+			[
+				"testdoc",
+				"A4/q2.testdoc"
+			],
+			[
+				"mc",
+				"A4/q2tallyVotesMC.cpp"
+			],
+			[
+				"voter.h",
+				"A4/q2voter.h"
+			],
+			[
+				"voter.",
+				"A4/q2voter.cpp"
+			],
+			[
+				"voter",
+				"A4/q2voter.h"
+			],
+			[
+				"q2printer",
+				"A4/q2printer.cpp"
+			],
+			[
+				"q2voter",
+				"A4/q2voter.h"
+			],
+			[
+				"q1.tx",
+				"A4/q1.txt"
+			],
+			[
+				"q2main",
+				"A4/q2main.cpp"
+			],
+			[
+				"tall.h",
+				"A4/q2tallyVotes.h"
+			],
+			[
+				"q1.cc",
+				"A4/q1.cc"
+			],
+			[
+				"q1main",
+				"A3/q1main.cpp"
+			],
+			[
+				".test",
+				"A2/q2.testtxt"
+			],
+			[
+				"q1.txt",
+				"A4/q1.txt"
+			],
+			[
+				"comm",
+				"A4/q2tallyVotesCommon.cpp"
+			],
+			[
+				"q2tall",
+				"A4/q2tallyVotesSEM.cpp"
+			],
+			[
+				"q2tallybar",
+				"A4/q2tallyVotesBAR.cpp"
+			],
+			[
+				"q3main",
+				"A3/q3main.cpp"
+			],
+			[
+				"make",
+				"A4/Makefile"
+			],
+			[
+				"voter.c",
+				"A4/q2voter.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Make-WaterlooWorks-Great-Again/WaterlooWorks.sublime-project"
+			],
+			[
+				"cs",
+				"~/Documents/CS343/cs343.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 181.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"auto",
+				"AUTOMATIC_SIGNAL"
+			],
+			[
+				"autm",
+				"AUTOMATIC_SIGNAL"
+			],
+			[
+				"courma",
+				"WATCardOffice::Courier::main"
+			],
+			[
+				"cour:ma",
+				"WATCardOffice::Courier::main"
+			],
+			[
+				"courmai",
+				"WATCardOffice::Courier::main"
+			],
+			[
+				"courier",
+				"WATCardOffice::Courier::main"
+			],
+			[
+				"job",
+				"Job"
+			],
+			[
+				"cour",
+				"Courier"
+			],
+			[
+				"coure",
+				"Courier"
+			],
+			[
+				"transfer",
+				"transfer"
+			],
+			[
+				"VMRegi",
+				"VMregister"
+			],
+			[
+				"couri",
+				"Courier::Courier"
+			],
+			[
+				"ra",
+				"RAII"
+			],
+			[
+				"RAII",
+				"RAII"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"vfsopen",
+				"vfs_open"
+			],
+			[
+				"open",
+				"open"
+			],
+			[
+				"sysfork",
+				"sys_fork"
+			],
+			[
+				"cvsig",
+				"cv_signal"
+			],
+			[
+				"lock_ac",
+				"lock_acquire"
+			],
+			[
+				"fork",
+				"sys_fork"
+			],
+			[
+				"STACKTO",
+				"USERSTACKBOT"
+			],
+			[
+				"MKWA",
+				"_MKWAIT_SIG"
+			],
+			[
+				"getpp",
+				"getppages"
+			],
+			[
+				"malloc",
+				"malloc"
+			],
+			[
+				"round",
+				"ROUNDUP"
+			],
+			[
+				"ROU",
+				"ROUNDUP"
+			],
+			[
+				"maloc",
+				"malloc"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"allockp",
+				"alloc_kpages"
+			],
+			[
+				"vm_fa",
+				"vm_fault"
+			],
+			[
+				"tlbran",
+				"tlb_random"
+			],
+			[
+				"sysext",
+				"sys__exit"
+			],
+			[
+				"",
+				"$(_T_):"
+			],
+			[
+				"PADDR",
+				"PADDR_TO_KVADDR"
+			],
+			[
+				"runpro",
+				"runprogram"
+			],
+			[
+				"O_RDONLY",
+				"O_RDONLY"
+			],
+			[
+				"sys_wait",
+				"sys_waitpid"
+			],
+			[
+				"waitpid",
+				"waitpid"
+			],
+			[
+				"panic",
+				"panic"
+			],
+			[
+				"proc_dest",
+				"proc_destroy"
+			],
+			[
+				"DOUNDUP",
+				"DIVROUNDUP"
+			],
+			[
+				"E2",
+				"E2BIG"
+			],
+			[
+				"strLen",
+				"strlen"
+			],
+			[
+				"memcp",
+				"memcpy"
+			],
+			[
+				"copyout",
+				"copyout"
+			],
+			[
+				"putchar",
+				"putchar"
+			],
+			[
+				"vfs_biglock",
+				"vfs_biglock_acquire"
+			],
+			[
+				"proc_crae",
+				"proc_create_runprogram"
+			],
+			[
+				"as_Co",
+				"as_copy"
+			],
+			[
+				"as_c",
+				"as_copy"
+			],
+			[
+				"spinlock",
+				"spinlock_acquire"
+			],
+			[
+				"spinlocka",
+				"spinlock_acquire"
+			],
+			[
+				"MKWai",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"threadcre",
+				"thread_create"
+			],
+			[
+				"setas",
+				"curproc_setas"
+			],
+			[
+				"as_act",
+				"as_activate"
+			],
+			[
+				"DB_SYS",
+				"DB_SYSCALL"
+			],
+			[
+				"_MK",
+				"_MKWAIT_CORE"
+			],
+			[
+				"array_remo",
+				"array_remove"
+			],
+			[
+				"MKW",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"cv_",
+				"cv_create"
+			],
+			[
+				"cv",
+				"cv_broadcast"
+			],
+			[
+				"EMPROC",
+				"EMPROC"
+			],
+			[
+				"proc",
+				"proc_create_runprogram"
+			],
+			[
+				"memc",
+				"memcpy"
+			],
+			[
+				"_WEX",
+				"__WEXITED"
+			],
+			[
+				"proc_des",
+				"proc_destroy"
+			],
+			[
+				"exit",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"mkexit",
+				"_MKWAIT_EXIT"
+			],
+			[
+				"exut",
+				"WEXITSTATUS"
+			],
+			[
+				"new_o",
+				"new_proccess"
+			],
+			[
+				"new_p",
+				"new_child_process"
+			],
+			[
+				"mips_user",
+				"mips_usermode"
+			],
+			[
+				"sys_wr",
+				"sys_write"
+			],
+			[
+				"_write",
+				"SYS_write"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"thread_fork",
+				"thread_fork"
+			],
+			[
+				"enterfo",
+				"enter_forked_process"
+			],
+			[
+				"enter_new_process",
+				"enter_new_process"
+			],
+			[
+				"trap",
+				"trapframe"
+			],
+			[
+				"array",
+				"array_add"
+			],
+			[
+				"array_a",
+				"array_add"
+			],
+			[
+				"PID_MAX",
+				"PID_MAX"
+			],
+			[
+				"curpset",
+				"curproc_setas"
+			],
+			[
+				"curproc_setas",
+				"curproc_setas"
+			],
+			[
+				"as_cop",
+				"as_copy"
+			],
+			[
+				"proccre",
+				"proc_create_runprogram"
+			],
+			[
+				"proc_crea",
+				"proc_create_runprogram"
+			],
+			[
+				"__pid_t",
+				"__pid_t"
+			],
+			[
+				"pid_t",
+				"pid_t"
+			],
+			[
+				"semaph",
+				"semaphore"
+			],
+			[
+				"mips_tra",
+				"mips_trap"
+			],
+			[
+				"curThre",
+				"curthread"
+			],
+			[
+				"sys___time",
+				"sys___time"
+			],
+			[
+				"GROUP_VERSION",
+				"GROUP_VERSION"
+			],
+			[
+				"pidmin",
+				"PID_MIN"
+			],
+			[
+				"min",
+				"MIN"
+			],
+			[
+				"trafi",
+				"traffic_simulation"
+			],
+			[
+				"dthea",
+				"DB_THREADS"
+			],
+			[
+				"dth",
+				"DB_THREADS"
+			],
+			[
+				"kprin",
+				"kprintf"
+			],
+			[
+				"WIFEX",
+				"WIFEXITED"
+			],
+			[
+				"syscall",
+				"syscall"
+			],
+			[
+				"synch",
+				"_SYNCH_H_"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

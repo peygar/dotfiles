@@ -1,0 +1,48 @@
+#!/bin/bash
+# Contract: runSuite suite-file program
+# suite-file contains names of tests, run them with program
+# run test.in files and diff them to the test.out
+
+
+if [ "${#}" -ne 2 ]; then
+	echo "Usage: ${0} suite-file program" 1>&2
+	exit 1
+fi
+
+for testFile in `cat "${1}"`; do
+	if [ ! -e "${testFile}.in" ]; then
+		echo "${testFile}.in" not found 1>&2
+		exit 1
+	fi
+	if [ ! -r "${testFile}.in" ]; then
+		echo "${testFile}.in" not readable 1>&2
+		exit 1
+	fi
+
+	if [ ! -e "${testFile}.exp" ]; then
+		echo "${testFile}.exp" not found 1>&2
+		exit 1
+	fi
+	if [ ! -r "${testFile}.exp" ]; then
+		echo "${testFile}.exp" not readable 1>&2
+		exit 1
+	fi
+	if [ -e "${testFile}.args" ]; then
+		args=$(cat "${testFile}.args")
+		out=` "${2}" "${args}" < "${testFile}.in" `
+	else
+		out=`"${2}" < "${testFile}.in"`
+	fi
+  echo "Running test: ${testFile}"
+	diff=`diff <(echo "${out}") "${testFile}.exp"`
+	if [ ! -z "${diff}" ]; then
+		echo Test failed: "${testFile}"
+		echo Input:
+		echo "$(cat "${testFile}.in")"
+		echo Expected:
+		echo "$(cat "${testFile}.exp")"
+		echo Actual:
+		echo "${out}"
+	fi
+done
+echo "Testing complete."

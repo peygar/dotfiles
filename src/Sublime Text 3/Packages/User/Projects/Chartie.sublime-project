@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/Documents/chartie3"
+		}
+	],
+    "syntax_override": {
+        "\\.js$": ["Babel", "JavaScript (Babel)"]
+    }
+}

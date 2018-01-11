@@ -1,0 +1,38 @@
+#!/bin/zsh
+source /Users/Peyman/.oh-my-zsh/plugins/battery/battery.plugin.zsh
+
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLACK='\033[0;30m'
+DARKGRAY='\033[1;30m'
+BLUE='\033[0;34m'
+LIGHTYELLOW='\033[0;33m'
+LIGHTBLUE='\033[1;34m'
+LIGHTGREEN='\033[1;32m'
+CYAN='\033[0;36m'
+LIGHTCYAN='\033[1;36m'
+LIGHTRED='\033[1;31m'
+PURPLE='\033[0;35m'
+LIGHTPURPLE='\033[1;35m'
+BROWN='\033[0;33m'
+LIGHTGRAY='\033[0;37m'
+WHITE='\033[1;37m'
+NC='\033[0m' # No Color
+
+#⚡
+
+nowTime="$(date "+%a %e %b %Y - %I:%M:%S")"
+battery="$(battery_pct)"
+
+batteryColor=$NC
+if [[ $battery -gt 40 ]] ; then
+    batteryColor=$GREEN
+elif [[ $battery -gt 30 ]] ; then
+    batteryColor=$YELLOW
+else
+    batteryColor=$RED
+fi
+
+printf "🕑  ${YELLOW}${nowTime}${NC} \t\t"
+printf "🔋  ${batteryColor}${battery}%%${NC}\n"

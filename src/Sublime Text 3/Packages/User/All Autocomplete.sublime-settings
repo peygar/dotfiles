@@ -1,0 +1,7 @@
+{
+    "exclude_from_completion" : [
+        "*.sublime-settings",
+        "Preferences.sublime-settings",
+        "JSON"
+    ]
+}
