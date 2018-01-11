@@ -2796,7 +2796,7 @@
 					"file": "/Users/Peyman/Library/DotFiles/install_zsh.sh",
 					"settings":
 					{
-						"buffer_size": 308,
+						"buffer_size": 302,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -4255,7 +4255,7 @@
 								[
 									[
 										292,
-										240
+										292
 									]
 								],
 								"settings":
@@ -4449,23 +4449,23 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 308,
+								"buffer_size": 302,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										307,
-										307
+										227,
+										227
 									]
 								],
 								"settings":
 								{
 									"WordCount":
 									{
-										"changes": 21,
-										"count": 15,
+										"changes": 22,
+										"count": 16,
 										"modified": false,
 										"selection": false,
 										"status": -1,
