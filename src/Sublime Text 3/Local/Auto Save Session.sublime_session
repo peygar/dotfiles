@@ -2233,6 +2233,10 @@
 				"selected_items":
 				[
 					[
+						"iter",
+						"iterm"
+					],
+					[
 						"Ba",
 						"BACKUP_ROOT"
 					],
@@ -2739,10 +2743,6 @@
 					[
 						"new",
 						"new_proc"
-					],
-					[
-						"EM",
-						"ENOMEM\t(thread.c)"
 					]
 				]
 			},
@@ -2787,7 +2787,7 @@
 					"file": "/Users/Peyman/Library/DotFiles/backup.sh",
 					"settings":
 					{
-						"buffer_size": 416,
+						"buffer_size": 470,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -2796,7 +2796,7 @@
 					"file": "/Users/Peyman/Library/DotFiles/install_zsh.sh",
 					"settings":
 					{
-						"buffer_size": 262,
+						"buffer_size": 308,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -3532,7 +3532,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 5,
 					"sheets":
 					[
 						{
@@ -3548,8 +3548,8 @@
 								"selection":
 								[
 									[
-										2482,
-										2482
+										2495,
+										2495
 									]
 								],
 								"settings":
@@ -3736,7 +3736,7 @@
 								"translation.y": 1249.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -4238,7 +4238,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -4247,23 +4247,23 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 416,
+								"buffer_size": 470,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										416,
-										337
+										292,
+										240
 									]
 								],
 								"settings":
 								{
 									"WordCount":
 									{
-										"changes": 559,
-										"count": 21,
+										"changes": 587,
+										"count": 22,
 										"modified": false,
 										"selection": false,
 										"status": -1,
@@ -4440,7 +4440,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -4449,23 +4449,23 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 262,
+								"buffer_size": 308,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										262,
-										262
+										307,
+										307
 									]
 								],
 								"settings":
 								{
 									"WordCount":
 									{
-										"changes": 4,
-										"count": 14,
+										"changes": 21,
+										"count": 15,
 										"modified": false,
 										"selection": false,
 										"status": -1,
@@ -4571,7 +4571,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
