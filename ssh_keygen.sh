@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEFAULT_KEYPATH="/Users/Peyman/.ssh/new_guy"
+DEFAULT_KEYPATH="/home/$USER/.ssh/id_rsa"
 
 read -p "Enter your email: " email
 file="hi"
